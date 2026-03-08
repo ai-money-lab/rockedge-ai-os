@@ -1,0 +1,103 @@
+{
+  "generated_at": "2026-03-08T16:16:51.457778+09:00",
+  "week": "2026-03-01 ~ 2026-03-08",
+  "andpad": {
+    "total_count": 15,
+    "completion_count": 4,
+    "payment_count": 4,
+    "site_survey_count": 1,
+    "start_count": 0,
+    "total_payment_amount": 535860,
+    "urgent_items": [
+      "3/8本日現調：岩田治子様邸 浴室暖房機工事（今野翼）- 進捗フォロー要対応"
+    ],
+    "summary": "完工4件、入金4件（計53.6万円）、新規案件3件、本日現調1件要対応",
+    "cases": [
+      {
+        "customer": "岩田治子",
+        "work_type": "浴室暖房機工事",
+        "event": "現調",
+        "amount": 0,
+        "worker": "今野翼"
+      },
+      {
+        "customer": "仲尾章",
+        "work_type": "トイレ",
+        "event": "新規招待",
+        "amount": 0,
+        "worker": "今野"
+      },
+      {
+        "customer": "阿部圭子",
+        "work_type": "給湯器交換工事",
+        "event": "新規招待",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "小島英俊",
+        "work_type": "給湯器",
+        "event": "入金",
+        "amount": 120780,
+        "worker": "小川"
+      },
+      {
+        "customer": "沖田洋平",
+        "work_type": "トイレ工事",
+        "event": "入金",
+        "amount": 115000,
+        "worker": "眞鍋佳槻"
+      },
+      {
+        "customer": "川邊一徳",
+        "work_type": "ビルトインIH・防犯カメラ",
+        "event": "完工",
+        "amount": 0,
+        "worker": "木皿儀修"
+      },
+      {
+        "customer": "田中十喜夫",
+        "work_type": "トイレ工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "眞鍋佳規"
+      },
+      {
+        "customer": "陣内美帆",
+        "work_type": "ビルトインコンロ工事",
+        "event": "入金",
+        "amount": 115280,
+        "worker": "望月"
+      },
+      {
+        "customer": "濱田",
+        "work_type": "水栓",
+        "event": "完工",
+        "amount": 0,
+        "worker": "大久保"
+      },
+      {
+        "customer": "西崎麻衣子",
+        "work_type": "トイレ",
+        "event": "入金",
+        "amount": 184800,
+        "worker": "元山"
+      },
+      {
+        "customer": "本間直子",
+        "work_type": "ビルトインコンロ工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "眞鍋佳槻"
+      },
+      {
+        "customer": "小島友三郎",
+        "work_type": "コンロ工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "佐藤拓真"
+      }
+    ]
+  },
+  "important_count": 11
+}
