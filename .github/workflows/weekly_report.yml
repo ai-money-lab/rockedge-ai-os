@@ -2,38 +2,59 @@ name: ROCKEDGE Weekly Report
 
 on:
   schedule:
-    - cron: '0 0 * * 1'
+    # 毎週土曜日 09:00 JST (= 00:00 UTC)
+    - cron: '0 0 * * 6'
   workflow_dispatch:
+    # 手動実行ボタンでいつでも実行可能
+    inputs:
+      debug:
+        description: 'デバッグモード（詳細ログ）'
+        required: false
+        default: 'false'
 
 jobs:
   generate_report:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # レポートをリポジトリに書き込む
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
 
       - name: Install dependencies
-        run: pip install anthropic
+        run: |
+          pip install --upgrade pip
+          pip install \
+            anthropic \
+            google-api-python-client \
+            google-auth-httplib2 \
+            google-auth-oauthlib
 
       - name: Generate Weekly Report
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python scripts/weekly_report.py
+          GMAIL_TOKEN_JSON:   ${{ secrets.GMAIL_TOKEN_JSON }}
+        run: |
+          python scripts/weekly_report.py
 
       - name: Save Report
-        uses: actions/upload-artifact@v4
-        with:
-          name: weekly-report
-          path: data/latest_report.md
+        run: |
+          ls -la reports/
 
       - name: Commit Report to Repo
         run: |
-          git config user.name "ROCKEDGE AI-OS"
-          git config user.email "ai-os@rockedge.jp"
-          git add data/
-          git diff --staged --quiet || git commit -m "Weekly Report $(date +%Y-%m-%d)"
+          git config --local user.email "action@github.com"
+          git config --local user.name "ROCKEDGE AI Bot"
+          git add reports/
+          # 変更がある場合のみコミット
+          git diff --staged --quiet || git commit -m "📊 Weekly Report: $(date +'%Y-%m-%d') [auto]"
           git push
