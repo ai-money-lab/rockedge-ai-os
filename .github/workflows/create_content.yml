@@ -4,30 +4,43 @@ on:
   workflow_dispatch:
     inputs:
       theme:
-        description: 'テーマ (例: 家賃, ストレス, 婚活)'
+        description: 'テーマ（例: 不動産投資, 物件紹介, 業界裏話, B.A.D GYM）'
         required: true
-        default: '家賃'
+        default: '不動産投資'
       mode:
-        description: 'モード (tiktok / x_post / note)'
+        description: 'モード（tiktok / x_post / note）'
         required: true
         default: 'tiktok'
 
 jobs:
   create_content:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
+
       - run: pip install anthropic
+
       - name: Create Content
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           THEME: ${{ github.event.inputs.theme }}
           MODE: ${{ github.event.inputs.mode }}
         run: python scripts/create_content.py
-      - uses: actions/upload-artifact@v4
-        with:
-          name: content-output
-          path: data/latest_content.md
+
+      - name: Commit Content to Repo
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "ROCKEDGE AI Bot"
+          git add data/
+          git diff --staged --quiet || git commit -m "🎬 Content: ${{ github.event.inputs.theme }} × ${{ github.event.inputs.mode }} [auto]"
+          git push
