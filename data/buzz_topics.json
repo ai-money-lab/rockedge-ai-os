@@ -1,0 +1,35 @@
+{
+  "buzz_topics": [
+    {
+      "title": "入金率100%の秘密",
+      "hook": "施工業者の3割が未回収で悩んでます。でもウチは完工4件→入金4件で回収率100%",
+      "data_point": "完工4件・入金4件（回収率100%）、MATTERPORT 3D撮影活用",
+      "score": 92,
+      "suitable_modes": [
+        "x_post",
+        "note",
+        "tiktok"
+      ]
+    },
+    {
+      "title": "11万円vs18万円、同じトイレ工事の差額の正体",
+      "hook": "同じトイレ交換で7万円の差！安い業者に頼んで後悔する人の共通点",
+      "data_point": "沖田様¥115,000 vs 西崎様¥184,800、差額¥69,800の理由",
+      "score": 88,
+      "suitable_modes": [
+        "tiktok",
+        "note",
+        "x_post"
+      ]
+    },
+    {
+      "title": "防犯カメラ",
+      "hook": "記載なし",
+      "data_point": "IH・防犯カメラ複合案件完工",
+      "score": 0,
+      "suitable_modes": [
+        "note"
+      ]
+    }
+  ]
+}
