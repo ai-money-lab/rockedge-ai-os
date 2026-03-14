@@ -1,103 +1,110 @@
 {
-  "generated_at": "2026-03-08T16:16:51.457778+09:00",
-  "week": "2026-03-01 ~ 2026-03-08",
+  "generated_at": "2026-03-14T10:55:37.931110+09:00",
+  "week": "2026-03-07 ~ 2026-03-14",
   "andpad": {
     "total_count": 15,
-    "completion_count": 4,
-    "payment_count": 4,
+    "completion_count": 3,
+    "payment_count": 2,
     "site_survey_count": 1,
     "start_count": 0,
-    "total_payment_amount": 535860,
+    "total_payment_amount": 384780,
     "urgent_items": [
-      "3/8本日現調：岩田治子様邸 浴室暖房機工事（今野翼）- 進捗フォロー要対応"
+      "0114 藤倉隆一様邸 トイレ案件が入金日3日前（3/15予定）"
     ],
-    "summary": "完工4件、入金4件（計53.6万円）、新規案件3件、本日現調1件要対応",
+    "summary": "完工3件、入金2件（計38万円）、商品入荷5件、現調1件、案件招待1件",
     "cases": [
       {
-        "customer": "岩田治子",
-        "work_type": "浴室暖房機工事",
-        "event": "現調",
-        "amount": 0,
-        "worker": "今野翼"
-      },
-      {
-        "customer": "仲尾章",
+        "customer": "髙橋経一",
         "work_type": "トイレ",
-        "event": "新規招待",
-        "amount": 0,
-        "worker": "今野"
-      },
-      {
-        "customer": "阿部圭子",
-        "work_type": "給湯器交換工事",
-        "event": "新規招待",
-        "amount": 0,
-        "worker": "望月"
-      },
-      {
-        "customer": "小島英俊",
-        "work_type": "給湯器",
-        "event": "入金",
-        "amount": 120780,
-        "worker": "小川"
-      },
-      {
-        "customer": "沖田洋平",
-        "work_type": "トイレ工事",
-        "event": "入金",
-        "amount": 115000,
-        "worker": "眞鍋佳槻"
-      },
-      {
-        "customer": "川邊一徳",
-        "work_type": "ビルトインIH・防犯カメラ",
-        "event": "完工",
-        "amount": 0,
-        "worker": "木皿儀修"
-      },
-      {
-        "customer": "田中十喜夫",
-        "work_type": "トイレ工事",
         "event": "商品入荷",
         "amount": 0,
-        "worker": "眞鍋佳規"
-      },
-      {
-        "customer": "陣内美帆",
-        "work_type": "ビルトインコンロ工事",
-        "event": "入金",
-        "amount": 115280,
-        "worker": "望月"
-      },
-      {
-        "customer": "濱田",
-        "work_type": "水栓",
-        "event": "完工",
-        "amount": 0,
-        "worker": "大久保"
+        "worker": "小平店"
       },
       {
         "customer": "西崎麻衣子",
         "work_type": "トイレ",
-        "event": "入金",
-        "amount": 184800,
+        "event": "商品入荷",
+        "amount": 0,
         "worker": "元山"
       },
       {
-        "customer": "本間直子",
-        "work_type": "ビルトインコンロ工事",
-        "event": "完工",
+        "customer": "沖田洋平",
+        "work_type": "トイレ",
+        "event": "商品入荷",
         "amount": 0,
         "worker": "眞鍋佳槻"
       },
       {
-        "customer": "小島友三郎",
-        "work_type": "コンロ工事",
+        "customer": "阿部圭子",
+        "work_type": "給湯器交換",
+        "event": "入金",
+        "amount": 164780,
+        "worker": "望月"
+      },
+      {
+        "customer": "山口明",
+        "work_type": "防犯カメラ",
+        "event": "案件招待",
+        "amount": 0,
+        "worker": "-"
+      },
+      {
+        "customer": "中山靖之",
+        "work_type": "トイレ交換",
+        "event": "完工",
+        "amount": 0,
+        "worker": "望月優"
+      },
+      {
+        "customer": "藤倉隆一",
+        "work_type": "トイレ",
+        "event": "入金日3日前",
+        "amount": 0,
+        "worker": "向"
+      },
+      {
+        "customer": "小島英俊",
+        "work_type": "給湯器",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "小川"
+      },
+      {
+        "customer": "宇野紘史",
+        "work_type": "洗面化粧台",
+        "event": "現調",
+        "amount": 0,
+        "worker": "向"
+      },
+      {
+        "customer": "熊谷洋礼",
+        "work_type": "ビルトイン食洗器",
+        "event": "完工",
+        "amount": 0,
+        "worker": "今野翼"
+      },
+      {
+        "customer": "長谷川さざれ",
+        "work_type": "トイレリフォーム",
         "event": "完工",
         "amount": 0,
         "worker": "佐藤拓真"
+      },
+      {
+        "customer": "水島",
+        "work_type": "給湯器",
+        "event": "入金",
+        "amount": 220000,
+        "worker": "布沢"
+      },
+      {
+        "customer": "百田祥二",
+        "work_type": "トイレ洗面台",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "大久保"
       }
     ]
   },
-  "important_count": 11
+  "important_count": 9
 }
