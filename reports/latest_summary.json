@@ -1,108 +1,101 @@
 {
-  "generated_at": "2026-03-14T10:55:37.931110+09:00",
+  "generated_at": "2026-03-14T11:42:16.790442+09:00",
   "week": "2026-03-07 ~ 2026-03-14",
   "andpad": {
     "total_count": 15,
     "completion_count": 3,
-    "payment_count": 2,
+    "payment_count": 3,
     "site_survey_count": 1,
     "start_count": 0,
-    "total_payment_amount": 384780,
+    "total_payment_amount": 604780,
     "urgent_items": [
-      "0114 藤倉隆一様邸 トイレ案件が入金日3日前（3/15予定）"
+      "0114 藤倉隆一様邸トイレ案件が入金日3日前（3/12時点）"
     ],
-    "summary": "完工3件、入金2件（計38万円）、商品入荷5件、現調1件、案件招待1件",
+    "summary": "今週は完工3件、入金3件（60万円）、商品入荷4件、現調1件を処理。",
     "cases": [
       {
-        "customer": "髙橋経一",
-        "work_type": "トイレ",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "小平店"
-      },
-      {
-        "customer": "西崎麻衣子",
-        "work_type": "トイレ",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "元山"
-      },
-      {
-        "customer": "沖田洋平",
-        "work_type": "トイレ",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "眞鍋佳槻"
-      },
-      {
-        "customer": "阿部圭子",
-        "work_type": "給湯器交換",
-        "event": "入金",
-        "amount": 164780,
-        "worker": "望月"
-      },
-      {
-        "customer": "山口明",
-        "work_type": "防犯カメラ",
-        "event": "案件招待",
-        "amount": 0,
-        "worker": "-"
-      },
-      {
-        "customer": "中山靖之",
-        "work_type": "トイレ交換",
-        "event": "完工",
-        "amount": 0,
-        "worker": "望月優"
-      },
-      {
-        "customer": "藤倉隆一",
-        "work_type": "トイレ",
-        "event": "入金日3日前",
-        "amount": 0,
-        "worker": "向"
-      },
-      {
-        "customer": "小島英俊",
-        "work_type": "給湯器",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "小川"
-      },
-      {
-        "customer": "宇野紘史",
-        "work_type": "洗面化粧台",
-        "event": "現調",
-        "amount": 0,
-        "worker": "向"
-      },
-      {
-        "customer": "熊谷洋礼",
-        "work_type": "ビルトイン食洗器",
-        "event": "完工",
-        "amount": 0,
-        "worker": "今野翼"
-      },
-      {
-        "customer": "長谷川さざれ",
-        "work_type": "トイレリフォーム",
-        "event": "完工",
-        "amount": 0,
-        "worker": "佐藤拓真"
-      },
-      {
-        "customer": "水島",
+        "customer": "水島様",
         "work_type": "給湯器",
         "event": "入金",
         "amount": 220000,
         "worker": "布沢"
       },
       {
-        "customer": "百田祥二",
-        "work_type": "トイレ洗面台",
+        "customer": "阿部圭子様",
+        "work_type": "給湯器交換工事",
+        "event": "入金",
+        "amount": 164780,
+        "worker": "望月"
+      },
+      {
+        "customer": "水島様",
+        "work_type": "給湯器",
+        "event": "入金",
+        "amount": 220000,
+        "worker": "布沢"
+      },
+      {
+        "customer": "髙橋経一様",
+        "work_type": "トイレ",
         "event": "商品入荷",
         "amount": 0,
-        "worker": "大久保"
+        "worker": "向"
+      },
+      {
+        "customer": "西崎麻衣子様",
+        "work_type": "トイレ",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "元山"
+      },
+      {
+        "customer": "沖田洋平様",
+        "work_type": "トイレ工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "眞鍋佳槻"
+      },
+      {
+        "customer": "小島英俊様",
+        "work_type": "給湯器",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "小川"
+      },
+      {
+        "customer": "中山靖之様",
+        "work_type": "トイレ交換工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "望月優"
+      },
+      {
+        "customer": "熊谷洋礼様",
+        "work_type": "ビルトイン食洗器工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "今野翼"
+      },
+      {
+        "customer": "長谷川さざれ様",
+        "work_type": "トイレリフォーム工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "佐藤拓真"
+      },
+      {
+        "customer": "宇野紘史様",
+        "work_type": "洗面化粧台",
+        "event": "現調",
+        "amount": 0,
+        "worker": "向"
+      },
+      {
+        "customer": "山口明様",
+        "work_type": "防犯カメラ",
+        "event": "案件招待",
+        "amount": 0,
+        "worker": "-"
       }
     ]
   },
