@@ -92,5 +92,99 @@
         "worker": "佐藤拓真"
       }
     ]
+  },
+  {
+    "week": "2026-03-07 ~ 2026-03-14",
+    "completion_count": 3,
+    "payment_count": 3,
+    "site_survey_count": 1,
+    "total_payment": 604780,
+    "urgent_count": 1,
+    "cases": [
+      {
+        "customer": "水島様",
+        "work_type": "給湯器",
+        "event": "入金",
+        "amount": 220000,
+        "worker": "布沢"
+      },
+      {
+        "customer": "阿部圭子様",
+        "work_type": "給湯器交換工事",
+        "event": "入金",
+        "amount": 164780,
+        "worker": "望月"
+      },
+      {
+        "customer": "水島様",
+        "work_type": "給湯器",
+        "event": "入金",
+        "amount": 220000,
+        "worker": "布沢"
+      },
+      {
+        "customer": "髙橋経一様",
+        "work_type": "トイレ",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "向"
+      },
+      {
+        "customer": "西崎麻衣子様",
+        "work_type": "トイレ",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "元山"
+      },
+      {
+        "customer": "沖田洋平様",
+        "work_type": "トイレ工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "眞鍋佳槻"
+      },
+      {
+        "customer": "小島英俊様",
+        "work_type": "給湯器",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "小川"
+      },
+      {
+        "customer": "中山靖之様",
+        "work_type": "トイレ交換工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "望月優"
+      },
+      {
+        "customer": "熊谷洋礼様",
+        "work_type": "ビルトイン食洗器工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "今野翼"
+      },
+      {
+        "customer": "長谷川さざれ様",
+        "work_type": "トイレリフォーム工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "佐藤拓真"
+      },
+      {
+        "customer": "宇野紘史様",
+        "work_type": "洗面化粧台",
+        "event": "現調",
+        "amount": 0,
+        "worker": "向"
+      },
+      {
+        "customer": "山口明様",
+        "work_type": "防犯カメラ",
+        "event": "案件招待",
+        "amount": 0,
+        "worker": "-"
+      }
+    ]
   }
 ]
