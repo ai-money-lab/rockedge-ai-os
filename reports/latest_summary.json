@@ -1,103 +1,59 @@
 {
-  "generated_at": "2026-03-14T11:42:16.790442+09:00",
-  "week": "2026-03-07 ~ 2026-03-14",
+  "generated_at": "2026-04-11T15:37:55.324972+09:00",
+  "week": "2026-04-04 ~ 2026-04-11",
   "andpad": {
     "total_count": 15,
-    "completion_count": 3,
+    "completion_count": 2,
     "payment_count": 3,
-    "site_survey_count": 1,
+    "site_survey_count": 0,
     "start_count": 0,
-    "total_payment_amount": 604780,
+    "total_payment_amount": 314160,
     "urgent_items": [
-      "0114 藤倉隆一様邸トイレ案件が入金日3日前（3/12時点）"
+      "松本克之様（トイレ・風呂）の現調日程連絡が必要",
+      "鷲田ひさみ様（ビルトインIH）の現調連絡が必要",
+      "高橋誠様（換気扇）の現調連絡が必要",
+      "池野健一様（食洗器）の現調連絡が必要",
+      "石川悟様（給湯器）入荷済み・工事日連絡が必要",
+      "浪川佳己様（コンロ・レンジフード）入荷済み・工事日連絡が必要"
     ],
-    "summary": "今週は完工3件、入金3件（60万円）、商品入荷4件、現調1件を処理。",
+    "summary": "完工2件、入金3件（計31.4万円）。現調・工事日連絡待ち案件が複数あり対応必要。",
     "cases": [
       {
-        "customer": "水島様",
-        "work_type": "給湯器",
-        "event": "入金",
-        "amount": 220000,
-        "worker": "布沢"
+        "customer": "髙西幸子",
+        "work_type": "コンロレンジフード",
+        "event": "完工",
+        "amount": 0,
+        "worker": "高橋"
       },
       {
-        "customer": "阿部圭子様",
-        "work_type": "給湯器交換工事",
-        "event": "入金",
-        "amount": 164780,
+        "customer": "篠原美奈子",
+        "work_type": "ビルトインコンロ交換",
+        "event": "完工",
+        "amount": 0,
         "worker": "望月"
       },
       {
-        "customer": "水島様",
+        "customer": "鷲田ひさみ",
+        "work_type": "ビルトインIH交換",
+        "event": "入金",
+        "amount": 87780,
+        "worker": "望月"
+      },
+      {
+        "customer": "塩津亮児",
+        "work_type": "ガスコンロ交換",
+        "event": "入金",
+        "amount": 94160,
+        "worker": "佐藤"
+      },
+      {
+        "customer": "滝沢三男也",
         "work_type": "給湯器",
         "event": "入金",
-        "amount": 220000,
-        "worker": "布沢"
-      },
-      {
-        "customer": "髙橋経一様",
-        "work_type": "トイレ",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "向"
-      },
-      {
-        "customer": "西崎麻衣子様",
-        "work_type": "トイレ",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "元山"
-      },
-      {
-        "customer": "沖田洋平様",
-        "work_type": "トイレ工事",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "眞鍋佳槻"
-      },
-      {
-        "customer": "小島英俊様",
-        "work_type": "給湯器",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "小川"
-      },
-      {
-        "customer": "中山靖之様",
-        "work_type": "トイレ交換工事",
-        "event": "完工",
-        "amount": 0,
-        "worker": "望月優"
-      },
-      {
-        "customer": "熊谷洋礼様",
-        "work_type": "ビルトイン食洗器工事",
-        "event": "完工",
-        "amount": 0,
-        "worker": "今野翼"
-      },
-      {
-        "customer": "長谷川さざれ様",
-        "work_type": "トイレリフォーム工事",
-        "event": "完工",
-        "amount": 0,
-        "worker": "佐藤拓真"
-      },
-      {
-        "customer": "宇野紘史様",
-        "work_type": "洗面化粧台",
-        "event": "現調",
-        "amount": 0,
-        "worker": "向"
-      },
-      {
-        "customer": "山口明様",
-        "work_type": "防犯カメラ",
-        "event": "案件招待",
-        "amount": 0,
-        "worker": "-"
+        "amount": 132220,
+        "worker": "佐藤"
       }
     ]
   },
-  "important_count": 9
+  "important_count": 15
 }
