@@ -186,5 +186,50 @@
         "worker": "-"
       }
     ]
+  },
+  {
+    "week": "2026-04-04 ~ 2026-04-11",
+    "completion_count": 2,
+    "payment_count": 3,
+    "site_survey_count": 0,
+    "total_payment": 314160,
+    "urgent_count": 6,
+    "cases": [
+      {
+        "customer": "髙西幸子",
+        "work_type": "コンロレンジフード",
+        "event": "完工",
+        "amount": 0,
+        "worker": "高橋"
+      },
+      {
+        "customer": "篠原美奈子",
+        "work_type": "ビルトインコンロ交換",
+        "event": "完工",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "鷲田ひさみ",
+        "work_type": "ビルトインIH交換",
+        "event": "入金",
+        "amount": 87780,
+        "worker": "望月"
+      },
+      {
+        "customer": "塩津亮児",
+        "work_type": "ガスコンロ交換",
+        "event": "入金",
+        "amount": 94160,
+        "worker": "佐藤"
+      },
+      {
+        "customer": "滝沢三男也",
+        "work_type": "給湯器",
+        "event": "入金",
+        "amount": 132220,
+        "worker": "佐藤"
+      }
+    ]
   }
 ]
