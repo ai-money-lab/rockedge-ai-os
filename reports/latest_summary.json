@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T11:11:35.861227+09:00",
+  "generated_at": "2026-04-18T12:19:24.057472+09:00",
   "week": "2026-04-11 ~ 2026-04-18",
   "andpad": {
     "total_count": 15,
@@ -9,48 +9,48 @@
     "start_count": 0,
     "total_payment_amount": 560000,
     "urgent_items": [
-      "4/18(土)土屋元宏様の太陽光商談が予定されています",
-      "鈴木加代子様のビルトイン食洗機が納品日当日です"
+      "20260329調布店鈴木加代子様ビルトイン食洗機石田博昭案件が納品日当日（4/18）",
+      "土屋様邸（太陽光）の商談が4/18(土)9:00に予定"
     ],
-    "summary": "完工1件、入金56万円。太陽光商談と食洗機納品が控えています。",
+    "summary": "完工1件、入金1件（56万円）。納品当日案件と商談予定あり。",
     "cases": [
       {
-        "customer": "松永和彦様",
+        "customer": "松永　和彦",
         "work_type": "給湯器交換",
         "event": "完工",
         "amount": 0,
-        "worker": "安江啓太"
+        "worker": "安江 啓太"
       },
       {
-        "customer": "船坂光正様",
-        "work_type": "トイレ・洗面台工事",
+        "customer": "船坂　光正",
+        "work_type": "トイレ、洗面台工事",
         "event": "入金",
         "amount": 560000,
         "worker": "望月"
       },
       {
-        "customer": "猪子大治様",
+        "customer": "猪子大治",
         "work_type": "トイレ工事",
         "event": "商品入荷",
         "amount": 0,
         "worker": "須永"
       },
       {
-        "customer": "土屋元宏様",
+        "customer": "土屋様",
         "work_type": "太陽光",
         "event": "商談予定",
         "amount": 0,
-        "worker": "布沢"
+        "worker": "中"
       },
       {
-        "customer": "鈴木加代子様",
+        "customer": "鈴木加代子",
         "work_type": "ビルトイン食洗機",
         "event": "納品日当日",
         "amount": 0,
         "worker": "石田博昭"
       },
       {
-        "customer": "上野様",
+        "customer": "上野",
         "work_type": "食洗機",
         "event": "案件招待",
         "amount": 0,
