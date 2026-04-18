@@ -1,57 +1,60 @@
 {
-  "generated_at": "2026-04-11T15:37:55.324972+09:00",
-  "week": "2026-04-04 ~ 2026-04-11",
+  "generated_at": "2026-04-18T11:11:35.861227+09:00",
+  "week": "2026-04-11 ~ 2026-04-18",
   "andpad": {
     "total_count": 15,
-    "completion_count": 2,
-    "payment_count": 3,
+    "completion_count": 1,
+    "payment_count": 1,
     "site_survey_count": 0,
     "start_count": 0,
-    "total_payment_amount": 314160,
+    "total_payment_amount": 560000,
     "urgent_items": [
-      "松本克之様（トイレ・風呂）の現調日程連絡が必要",
-      "鷲田ひさみ様（ビルトインIH）の現調連絡が必要",
-      "高橋誠様（換気扇）の現調連絡が必要",
-      "池野健一様（食洗器）の現調連絡が必要",
-      "石川悟様（給湯器）入荷済み・工事日連絡が必要",
-      "浪川佳己様（コンロ・レンジフード）入荷済み・工事日連絡が必要"
+      "4/18(土)土屋元宏様の太陽光商談が予定されています",
+      "鈴木加代子様のビルトイン食洗機が納品日当日です"
     ],
-    "summary": "完工2件、入金3件（計31.4万円）。現調・工事日連絡待ち案件が複数あり対応必要。",
+    "summary": "完工1件、入金56万円。太陽光商談と食洗機納品が控えています。",
     "cases": [
       {
-        "customer": "髙西幸子",
-        "work_type": "コンロレンジフード",
+        "customer": "松永和彦様",
+        "work_type": "給湯器交換",
         "event": "完工",
         "amount": 0,
-        "worker": "高橋"
+        "worker": "安江啓太"
       },
       {
-        "customer": "篠原美奈子",
-        "work_type": "ビルトインコンロ交換",
-        "event": "完工",
-        "amount": 0,
+        "customer": "船坂光正様",
+        "work_type": "トイレ・洗面台工事",
+        "event": "入金",
+        "amount": 560000,
         "worker": "望月"
       },
       {
-        "customer": "鷲田ひさみ",
-        "work_type": "ビルトインIH交換",
-        "event": "入金",
-        "amount": 87780,
-        "worker": "望月"
+        "customer": "猪子大治様",
+        "work_type": "トイレ工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "須永"
       },
       {
-        "customer": "塩津亮児",
-        "work_type": "ガスコンロ交換",
-        "event": "入金",
-        "amount": 94160,
-        "worker": "佐藤"
+        "customer": "土屋元宏様",
+        "work_type": "太陽光",
+        "event": "商談予定",
+        "amount": 0,
+        "worker": "布沢"
       },
       {
-        "customer": "滝沢三男也",
-        "work_type": "給湯器",
-        "event": "入金",
-        "amount": 132220,
-        "worker": "佐藤"
+        "customer": "鈴木加代子様",
+        "work_type": "ビルトイン食洗機",
+        "event": "納品日当日",
+        "amount": 0,
+        "worker": "石田博昭"
+      },
+      {
+        "customer": "上野様",
+        "work_type": "食洗機",
+        "event": "案件招待",
+        "amount": 0,
+        "worker": "宮野"
       }
     ]
   },
