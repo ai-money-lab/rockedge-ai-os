@@ -231,5 +231,57 @@
         "worker": "佐藤"
       }
     ]
+  },
+  {
+    "week": "2026-04-11 ~ 2026-04-18",
+    "completion_count": 1,
+    "payment_count": 1,
+    "site_survey_count": 0,
+    "total_payment": 560000,
+    "urgent_count": 2,
+    "cases": [
+      {
+        "customer": "松永　和彦",
+        "work_type": "給湯器交換",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江 啓太"
+      },
+      {
+        "customer": "船坂　光正",
+        "work_type": "トイレ、洗面台工事",
+        "event": "入金",
+        "amount": 560000,
+        "worker": "望月"
+      },
+      {
+        "customer": "猪子大治",
+        "work_type": "トイレ工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "須永"
+      },
+      {
+        "customer": "土屋様",
+        "work_type": "太陽光",
+        "event": "商談予定",
+        "amount": 0,
+        "worker": "中"
+      },
+      {
+        "customer": "鈴木加代子",
+        "work_type": "ビルトイン食洗機",
+        "event": "納品日当日",
+        "amount": 0,
+        "worker": "石田博昭"
+      },
+      {
+        "customer": "上野",
+        "work_type": "食洗機",
+        "event": "案件招待",
+        "amount": 0,
+        "worker": "宮野"
+      }
+    ]
   }
 ]
