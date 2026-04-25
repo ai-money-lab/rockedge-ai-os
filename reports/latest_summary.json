@@ -1,60 +1,50 @@
 {
-  "generated_at": "2026-04-18T12:19:24.057472+09:00",
-  "week": "2026-04-11 ~ 2026-04-18",
+  "generated_at": "2026-04-25T11:13:33.029897+09:00",
+  "week": "2026-04-18 ~ 2026-04-25",
   "andpad": {
     "total_count": 15,
-    "completion_count": 1,
+    "completion_count": 2,
     "payment_count": 1,
     "site_survey_count": 0,
-    "start_count": 0,
-    "total_payment_amount": 560000,
-    "urgent_items": [
-      "20260329調布店鈴木加代子様ビルトイン食洗機石田博昭案件が納品日当日（4/18）",
-      "土屋様邸（太陽光）の商談が4/18(土)9:00に予定"
-    ],
-    "summary": "完工1件、入金1件（56万円）。納品当日案件と商談予定あり。",
+    "start_count": 2,
+    "total_payment_amount": 235290,
+    "urgent_items": [],
+    "summary": "完工2件、着工2件、入金1件（235,290円）。ログイン通知が多数。",
     "cases": [
       {
-        "customer": "松永　和彦",
-        "work_type": "給湯器交換",
+        "customer": "塩津　亮児",
+        "work_type": "ガスコンロ交換",
         "event": "完工",
         "amount": 0,
         "worker": "安江 啓太"
       },
       {
-        "customer": "船坂　光正",
-        "work_type": "トイレ、洗面台工事",
+        "customer": "百田祥二",
+        "work_type": "トイレ洗面台",
+        "event": "完工",
+        "amount": 0,
+        "worker": "ママーズ事業部　業務"
+      },
+      {
+        "customer": "神谷洋太郎",
+        "work_type": "コンロレンジフード",
         "event": "入金",
-        "amount": 560000,
+        "amount": 235290,
+        "worker": "布沢"
+      },
+      {
+        "customer": "神谷洋太郎",
+        "work_type": "コンロレンジフード",
+        "event": "着工",
+        "amount": 0,
+        "worker": "布沢"
+      },
+      {
+        "customer": "加藤　王康",
+        "work_type": "浴室暖房換気扇取替",
+        "event": "着工",
+        "amount": 0,
         "worker": "望月"
-      },
-      {
-        "customer": "猪子大治",
-        "work_type": "トイレ工事",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "須永"
-      },
-      {
-        "customer": "土屋様",
-        "work_type": "太陽光",
-        "event": "商談予定",
-        "amount": 0,
-        "worker": "中"
-      },
-      {
-        "customer": "鈴木加代子",
-        "work_type": "ビルトイン食洗機",
-        "event": "納品日当日",
-        "amount": 0,
-        "worker": "石田博昭"
-      },
-      {
-        "customer": "上野",
-        "work_type": "食洗機",
-        "event": "案件招待",
-        "amount": 0,
-        "worker": "宮野"
       }
     ]
   },
