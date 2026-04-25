@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T11:13:33.029897+09:00",
+  "generated_at": "2026-04-25T12:20:48.189455+09:00",
   "week": "2026-04-18 ~ 2026-04-25",
   "andpad": {
     "total_count": 15,
@@ -9,38 +9,38 @@
     "start_count": 2,
     "total_payment_amount": 235290,
     "urgent_items": [],
-    "summary": "完工2件、着工2件、入金1件（235,290円）。ログイン通知が多数。",
+    "summary": "完工2件、入金1件（235,290円）、着工2件、ログイン通知10件",
     "cases": [
       {
-        "customer": "塩津　亮児",
+        "customer": "塩津　亮児様",
         "work_type": "ガスコンロ交換",
         "event": "完工",
         "amount": 0,
         "worker": "安江 啓太"
       },
       {
-        "customer": "百田祥二",
+        "customer": "百田祥二様",
         "work_type": "トイレ洗面台",
         "event": "完工",
         "amount": 0,
         "worker": "ママーズ事業部　業務"
       },
       {
-        "customer": "神谷洋太郎",
+        "customer": "神谷洋太郎様",
         "work_type": "コンロレンジフード",
         "event": "入金",
         "amount": 235290,
         "worker": "布沢"
       },
       {
-        "customer": "神谷洋太郎",
+        "customer": "神谷洋太郎様",
         "work_type": "コンロレンジフード",
         "event": "着工",
-        "amount": 0,
+        "amount": 235290,
         "worker": "布沢"
       },
       {
-        "customer": "加藤　王康",
+        "customer": "加藤　王康様",
         "work_type": "浴室暖房換気扇取替",
         "event": "着工",
         "amount": 0,
