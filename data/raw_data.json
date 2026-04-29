@@ -283,5 +283,50 @@
         "worker": "宮野"
       }
     ]
+  },
+  {
+    "week": "2026-04-18 ~ 2026-04-25",
+    "completion_count": 2,
+    "payment_count": 1,
+    "site_survey_count": 0,
+    "total_payment": 235290,
+    "urgent_count": 0,
+    "cases": [
+      {
+        "customer": "塩津　亮児様",
+        "work_type": "ガスコンロ交換",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江 啓太"
+      },
+      {
+        "customer": "百田祥二様",
+        "work_type": "トイレ洗面台",
+        "event": "完工",
+        "amount": 0,
+        "worker": "ママーズ事業部　業務"
+      },
+      {
+        "customer": "神谷洋太郎様",
+        "work_type": "コンロレンジフード",
+        "event": "入金",
+        "amount": 235290,
+        "worker": "布沢"
+      },
+      {
+        "customer": "神谷洋太郎様",
+        "work_type": "コンロレンジフード",
+        "event": "着工",
+        "amount": 235290,
+        "worker": "布沢"
+      },
+      {
+        "customer": "加藤　王康様",
+        "work_type": "浴室暖房換気扇取替",
+        "event": "着工",
+        "amount": 0,
+        "worker": "望月"
+      }
+    ]
   }
 ]
