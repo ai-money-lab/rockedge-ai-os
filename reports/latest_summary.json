@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-04-25T12:20:48.189455+09:00",
-  "week": "2026-04-18 ~ 2026-04-25",
+  "generated_at": "2026-05-02T11:35:04.949487+09:00",
+  "week": "2026-04-25 ~ 2026-05-02",
   "andpad": {
     "total_count": 15,
-    "completion_count": 2,
-    "payment_count": 1,
+    "completion_count": 0,
+    "payment_count": 0,
     "site_survey_count": 0,
-    "start_count": 2,
-    "total_payment_amount": 235290,
+    "start_count": 1,
+    "total_payment_amount": 0,
     "urgent_items": [],
-    "summary": "完工2件、入金1件（235,290円）、着工2件、ログイン通知10件",
+    "summary": "今週は新規案件招待1件、商品入荷連絡3件、着工1件、ログイン通知10件を受信",
     "cases": [
       {
-        "customer": "塩津　亮児様",
-        "work_type": "ガスコンロ交換",
-        "event": "完工",
+        "customer": "廣川賢一様",
+        "work_type": "ビルトイン食洗機",
+        "event": "招待",
         "amount": 0,
-        "worker": "安江 啓太"
+        "worker": "株式会社でんきち"
       },
       {
-        "customer": "百田祥二様",
-        "work_type": "トイレ洗面台",
-        "event": "完工",
+        "customer": "双木奏子様",
+        "work_type": "トイレ",
+        "event": "商品入荷",
         "amount": 0,
-        "worker": "ママーズ事業部　業務"
+        "worker": "小平店"
       },
       {
-        "customer": "神谷洋太郎様",
-        "work_type": "コンロレンジフード",
-        "event": "入金",
-        "amount": 235290,
-        "worker": "布沢"
+        "customer": "佐籐永見子様",
+        "work_type": "ガスコンロ",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "小平店"
       },
       {
-        "customer": "神谷洋太郎様",
-        "work_type": "コンロレンジフード",
-        "event": "着工",
-        "amount": 235290,
-        "worker": "布沢"
-      },
-      {
-        "customer": "加藤　王康様",
-        "work_type": "浴室暖房換気扇取替",
+        "customer": "石川里志様",
+        "work_type": "トイレ",
         "event": "着工",
         "amount": 0,
-        "worker": "望月"
+        "worker": "株式会社でんきち"
+      },
+      {
+        "customer": "角田光正様",
+        "work_type": "複合工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "BRANCH調布三鷹通り店"
       }
     ]
   },
