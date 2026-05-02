@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-05-02T11:35:04.949487+09:00",
+  "generated_at": "2026-05-02T12:36:01.130006+09:00",
   "week": "2026-04-25 ~ 2026-05-02",
   "andpad": {
-    "total_count": 15,
+    "total_count": 16,
     "completion_count": 0,
     "payment_count": 0,
     "site_survey_count": 0,
-    "start_count": 1,
+    "start_count": 0,
     "total_payment_amount": 0,
     "urgent_items": [],
-    "summary": "今週は新規案件招待1件、商品入荷連絡3件、着工1件、ログイン通知10件を受信",
+    "summary": "商品入荷連絡3件、新規案件招待1件、ログイン通知12件",
     "cases": [
       {
-        "customer": "廣川賢一様",
-        "work_type": "ビルトイン食洗機",
-        "event": "招待",
-        "amount": 0,
-        "worker": "株式会社でんきち"
-      },
-      {
-        "customer": "双木奏子様",
-        "work_type": "トイレ",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "小平店"
-      },
-      {
-        "customer": "佐籐永見子様",
-        "work_type": "ガスコンロ",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "小平店"
-      },
-      {
-        "customer": "石川里志様",
-        "work_type": "トイレ",
-        "event": "着工",
-        "amount": 0,
-        "worker": "株式会社でんきち"
-      },
-      {
-        "customer": "角田光正様",
+        "customer": "角田光正",
         "work_type": "複合工事",
         "event": "商品入荷",
         "amount": 0,
-        "worker": "BRANCH調布三鷹通り店"
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "神谷洋太郎",
+        "work_type": "コンロレンジフード",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "布沢"
+      },
+      {
+        "customer": "廣川賢一",
+        "work_type": "ビルトイン食洗機",
+        "event": "案件招待",
+        "amount": 0,
+        "worker": "布沢"
+      },
+      {
+        "customer": "双木奏子",
+        "work_type": "トイレ",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "宮野"
+      },
+      {
+        "customer": "佐籐永見子",
+        "work_type": "ガスコンロ",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "宮野"
       }
     ]
   },
