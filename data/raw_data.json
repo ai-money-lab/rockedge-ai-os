@@ -328,5 +328,50 @@
         "worker": "望月"
       }
     ]
+  },
+  {
+    "week": "2026-04-25 ~ 2026-05-02",
+    "completion_count": 0,
+    "payment_count": 0,
+    "site_survey_count": 0,
+    "total_payment": 0,
+    "urgent_count": 0,
+    "cases": [
+      {
+        "customer": "角田光正",
+        "work_type": "複合工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "神谷洋太郎",
+        "work_type": "コンロレンジフード",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "布沢"
+      },
+      {
+        "customer": "廣川賢一",
+        "work_type": "ビルトイン食洗機",
+        "event": "案件招待",
+        "amount": 0,
+        "worker": "布沢"
+      },
+      {
+        "customer": "双木奏子",
+        "work_type": "トイレ",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "宮野"
+      },
+      {
+        "customer": "佐籐永見子",
+        "work_type": "ガスコンロ",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "宮野"
+      }
+    ]
   }
 ]
