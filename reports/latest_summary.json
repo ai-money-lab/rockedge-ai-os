@@ -1,52 +1,56 @@
 {
-  "generated_at": "2026-05-02T12:36:01.130006+09:00",
-  "week": "2026-04-25 ~ 2026-05-02",
+  "generated_at": "2026-05-09T11:42:31.905329+09:00",
+  "week": "2026-05-02 ~ 2026-05-09",
   "andpad": {
-    "total_count": 16,
+    "total_count": 15,
     "completion_count": 0,
-    "payment_count": 0,
-    "site_survey_count": 0,
+    "payment_count": 1,
+    "site_survey_count": 1,
     "start_count": 0,
-    "total_payment_amount": 0,
-    "urgent_items": [],
-    "summary": "商品入荷連絡3件、新規案件招待1件、ログイン通知12件",
+    "total_payment_amount": 14080,
+    "urgent_items": [
+      "山田ともき様邸レンジフード交換工事が納品日当日（5/8）",
+      "船坂光正様邸トイレ・洗面台工事が納品日3日前（5/8通知）",
+      "大沢光彦様ビルトインコンロ工事が見積提出日当日（5/8）"
+    ],
+    "summary": "入金1件・商品入荷3件・日報1件。納品間近案件複数あり早急対応必要",
     "cases": [
       {
-        "customer": "角田光正",
-        "work_type": "複合工事",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "村椿昭二"
+        "customer": "酒向良之",
+        "work_type": "トイレ・BIコンロ工事",
+        "event": "入金",
+        "amount": 14080,
+        "worker": "眞鍋"
       },
       {
-        "customer": "神谷洋太郎",
-        "work_type": "コンロレンジフード",
-        "event": "商品入荷",
+        "customer": "大西真希",
+        "work_type": "食洗機交換工事",
+        "event": "現調",
         "amount": 0,
-        "worker": "布沢"
+        "worker": "望月"
       },
       {
-        "customer": "廣川賢一",
-        "work_type": "ビルトイン食洗機",
-        "event": "案件招待",
-        "amount": 0,
-        "worker": "布沢"
-      },
-      {
-        "customer": "双木奏子",
-        "work_type": "トイレ",
+        "customer": "猪子大治",
+        "work_type": "トイレ工事",
         "event": "商品入荷",
         "amount": 0,
-        "worker": "宮野"
+        "worker": "須永"
       },
       {
-        "customer": "佐籐永見子",
-        "work_type": "ガスコンロ",
+        "customer": "船坂光正",
+        "work_type": "トイレ・洗面台工事",
         "event": "商品入荷",
         "amount": 0,
-        "worker": "宮野"
+        "worker": "望月"
+      },
+      {
+        "customer": "鷲田ひさみ",
+        "work_type": "ビルトインIH交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "望月"
       }
     ]
   },
-  "important_count": 15
+  "important_count": 12
 }
