@@ -373,5 +373,50 @@
         "worker": "宮野"
       }
     ]
+  },
+  {
+    "week": "2026-05-02 ~ 2026-05-09",
+    "completion_count": 0,
+    "payment_count": 1,
+    "site_survey_count": 0,
+    "total_payment": 14080,
+    "urgent_count": 3,
+    "cases": [
+      {
+        "customer": "酒向良之",
+        "work_type": "トイレ・BIコンロ工事",
+        "event": "入金",
+        "amount": 14080,
+        "worker": "眞鍋"
+      },
+      {
+        "customer": "猪子大治",
+        "work_type": "トイレ工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "須永"
+      },
+      {
+        "customer": "船坂光正",
+        "work_type": "トイレ・洗面台工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "鷲田ひさみ",
+        "work_type": "ビルトインIH交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "大西真希",
+        "work_type": "食洗機交換工事",
+        "event": "現調",
+        "amount": 0,
+        "worker": "望月"
+      }
+    ]
   }
 ]
