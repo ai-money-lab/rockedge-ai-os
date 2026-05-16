@@ -1,56 +1,54 @@
 {
-  "generated_at": "2026-05-09T12:42:51.508092+09:00",
-  "week": "2026-05-02 ~ 2026-05-09",
+  "generated_at": "2026-05-16T11:45:43.741226+09:00",
+  "week": "2026-05-09 ~ 2026-05-16",
   "andpad": {
     "total_count": 15,
-    "completion_count": 0,
-    "payment_count": 1,
-    "site_survey_count": 0,
+    "completion_count": 4,
+    "payment_count": 0,
+    "site_survey_count": 1,
     "start_count": 0,
-    "total_payment_amount": 14080,
+    "total_payment_amount": 0,
     "urgent_items": [
-      "山田ともき様邸レンジフード交換工事が納品日当日（5/8）",
-      "船坂光正様邸トイレ・洗面台工事が納品日3日前（5/11予定）",
-      "大沢光彦様ビルトインコンロ工事が見積提出日当日（5/8）"
+      "5/15山口明様邸防犯カメラ案件が現調日3日前です"
     ],
-    "summary": "入金1件（14,080円）、商品入荷3件、納品期限迫る案件3件あり、早急な対応が必要",
+    "summary": "今週は完工4件、新規案件1件招待、現調間近案件あり。ログイン通知多数。",
     "cases": [
       {
-        "customer": "酒向良之",
-        "work_type": "トイレ・BIコンロ工事",
-        "event": "入金",
-        "amount": 14080,
-        "worker": "眞鍋"
-      },
-      {
-        "customer": "猪子大治",
-        "work_type": "トイレ工事",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "須永"
-      },
-      {
-        "customer": "船坂光正",
-        "work_type": "トイレ・洗面台工事",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "望月"
-      },
-      {
-        "customer": "鷲田ひさみ",
-        "work_type": "ビルトインIH交換",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "望月"
-      },
-      {
-        "customer": "大西真希",
-        "work_type": "食洗機交換工事",
+        "customer": "山口明様",
+        "work_type": "防犯カメラ",
         "event": "現調",
         "amount": 0,
-        "worker": "望月"
+        "worker": "清水"
+      },
+      {
+        "customer": "神谷洋太郎様",
+        "work_type": "コンロレンジフード",
+        "event": "完工",
+        "amount": 0,
+        "worker": "布沢"
+      },
+      {
+        "customer": "小滝裕雄様",
+        "work_type": "コンロレンジフード",
+        "event": "完工",
+        "amount": 0,
+        "worker": "布沢"
+      },
+      {
+        "customer": "宮野　佐籐　永見子様",
+        "work_type": "ガスコンロ",
+        "event": "完工",
+        "amount": 0,
+        "worker": ""
+      },
+      {
+        "customer": "石川君代様",
+        "work_type": "給湯器",
+        "event": "完工",
+        "amount": 0,
+        "worker": "布沢"
       }
     ]
   },
-  "important_count": 11
+  "important_count": 5
 }
