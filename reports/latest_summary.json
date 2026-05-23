@@ -1,18 +1,33 @@
 {
-  "generated_at": "2026-05-23T11:49:42.005122+09:00",
+  "generated_at": "2026-05-23T12:57:25.763882+09:00",
   "week": "2026-05-16 ~ 2026-05-23",
   "andpad": {
-    "total_count": 15,
-    "completion_count": 6,
+    "total_count": 16,
+    "completion_count": 7,
     "payment_count": 0,
     "site_survey_count": 1,
     "start_count": 0,
     "total_payment_amount": 0,
     "urgent_items": [
-      "20260522調布店中山久子様トイレ石田博昭案件が日程調整連絡3日前（5/25予定）"
+      "20260522調布店中山久子様トイレ工事が日程調整連絡3日前（5/25予定）",
+      "20260502調布店安部実様邸トイレ工事の商品が5/23に入荷済み"
     ],
-    "summary": "完工6件、現調1件。ログイン通知が多数。日程調整が迫る案件あり。",
+    "summary": "完工7件、現調1件、商品入荷1件、日程調整リマインド1件、ログイン通知6件",
     "cases": [
+      {
+        "customer": "安部実様",
+        "work_type": "トイレ工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "中山久子様",
+        "work_type": "トイレ",
+        "event": "日程調整3日前",
+        "amount": 0,
+        "worker": "石田博昭"
+      },
       {
         "customer": "山田ともき様",
         "work_type": "レンジフード交換工事",
@@ -35,6 +50,13 @@
         "worker": "宮野"
       },
       {
+        "customer": "粕谷稔様",
+        "work_type": "食洗機、水栓",
+        "event": "現調",
+        "amount": 0,
+        "worker": "石倉"
+      },
+      {
         "customer": "池野健一様",
         "work_type": "食洗機",
         "event": "完工",
@@ -54,13 +76,6 @@
         "event": "完工",
         "amount": 0,
         "worker": "佐藤拓真"
-      },
-      {
-        "customer": "粕谷稔様",
-        "work_type": "食洗機、水栓",
-        "event": "現調",
-        "amount": 0,
-        "worker": "石倉"
       }
     ]
   },
