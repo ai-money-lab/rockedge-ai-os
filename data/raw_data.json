@@ -484,5 +484,78 @@
         "worker": "眞鍋"
       }
     ]
+  },
+  {
+    "week": "2026-05-16 ~ 2026-05-23",
+    "completion_count": 7,
+    "payment_count": 0,
+    "site_survey_count": 1,
+    "total_payment": 0,
+    "urgent_count": 2,
+    "cases": [
+      {
+        "customer": "安部実様",
+        "work_type": "トイレ工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "中山久子様",
+        "work_type": "トイレ",
+        "event": "日程調整3日前",
+        "amount": 0,
+        "worker": "石田博昭"
+      },
+      {
+        "customer": "山田ともき様",
+        "work_type": "レンジフード交換工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "加藤王康様",
+        "work_type": "浴室暖房換気扇取替",
+        "event": "完工",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "双木奏子様",
+        "work_type": "トイレ",
+        "event": "完工",
+        "amount": 0,
+        "worker": "宮野"
+      },
+      {
+        "customer": "粕谷稔様",
+        "work_type": "食洗機、水栓",
+        "event": "現調",
+        "amount": 0,
+        "worker": "石倉"
+      },
+      {
+        "customer": "池野健一様",
+        "work_type": "食洗機",
+        "event": "完工",
+        "amount": 0,
+        "worker": "宮野"
+      },
+      {
+        "customer": "大沢光彦様",
+        "work_type": "ビルトインコンロ",
+        "event": "完工",
+        "amount": 0,
+        "worker": "石田博昭"
+      },
+      {
+        "customer": "倉井知之様",
+        "work_type": "トイレリフォーム工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "佐藤拓真"
+      }
+    ]
   }
 ]
