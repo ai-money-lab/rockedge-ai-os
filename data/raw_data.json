@@ -557,5 +557,14 @@
         "worker": "佐藤拓真"
       }
     ]
+  },
+  {
+    "week": "2026-05-23 ~ 2026-05-30",
+    "completion_count": 0,
+    "payment_count": 0,
+    "site_survey_count": 0,
+    "total_payment": 0,
+    "urgent_count": 0,
+    "cases": []
   }
 ]
