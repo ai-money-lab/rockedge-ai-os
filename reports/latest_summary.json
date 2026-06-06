@@ -1,16 +1,54 @@
 {
-  "generated_at": "2026-05-30T13:05:18.781550+09:00",
-  "week": "2026-05-23 ~ 2026-05-30",
+  "generated_at": "2026-06-06T11:57:11.884238+09:00",
+  "week": "2026-05-30 ~ 2026-06-06",
   "andpad": {
     "total_count": 16,
-    "completion_count": 0,
-    "payment_count": 0,
+    "completion_count": 3,
+    "payment_count": 2,
     "site_survey_count": 0,
     "start_count": 0,
-    "total_payment_amount": 0,
-    "urgent_items": [],
-    "summary": "2026年5月30日に16回のログイン通知のみ。業務関連の案件情報なし。",
-    "cases": []
+    "total_payment_amount": 349180,
+    "urgent_items": [
+      "20260405調布店船坂光正様邸トイレ・洗面台工事が納品日3日前（6/8納品予定）"
+    ],
+    "summary": "完工3件、入金2件（計34.9万円）、新規案件招待3件、商品入荷5件を処理",
+    "cases": [
+      {
+        "customer": "森本義治",
+        "work_type": "トイレ工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江啓太"
+      },
+      {
+        "customer": "大西真希",
+        "work_type": "食洗機交換工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "伊藤タケ子",
+        "work_type": "ガスコンロ",
+        "event": "完工",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "石田広美",
+        "work_type": "給湯器",
+        "event": "入金",
+        "amount": 217400,
+        "worker": "小川"
+      },
+      {
+        "customer": "加納博之",
+        "work_type": "複合工事",
+        "event": "入金",
+        "amount": 131780,
+        "worker": "村椿昭二"
+      }
+    ]
   },
-  "important_count": 7
+  "important_count": 10
 }
