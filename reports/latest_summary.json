@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-06-06T11:57:11.884238+09:00",
+  "generated_at": "2026-06-06T13:09:07.206561+09:00",
   "week": "2026-05-30 ~ 2026-06-06",
   "andpad": {
-    "total_count": 16,
-    "completion_count": 3,
+    "total_count": 15,
+    "completion_count": 2,
     "payment_count": 2,
     "site_survey_count": 0,
     "start_count": 0,
     "total_payment_amount": 349180,
     "urgent_items": [
-      "20260405調布店船坂光正様邸トイレ・洗面台工事が納品日3日前（6/8納品予定）"
+      "20260405調布店　船坂　光正様邸　トイレ、洗面台工事　望月が納品日3日前（6/5時点）",
+      "20260516調布店加納博之様邸複合工事村椿昭二は食洗機だけ先に工事希望"
     ],
-    "summary": "完工3件、入金2件（計34.9万円）、新規案件招待3件、商品入荷5件を処理",
+    "summary": "完工2件、入金2件（計34.9万円）、商品入荷3件、新規案件招待3件",
     "cases": [
       {
         "customer": "森本義治",
@@ -23,13 +24,6 @@
       {
         "customer": "大西真希",
         "work_type": "食洗機交換工事",
-        "event": "完工",
-        "amount": 0,
-        "worker": "望月"
-      },
-      {
-        "customer": "伊藤タケ子",
-        "work_type": "ガスコンロ",
         "event": "完工",
         "amount": 0,
         "worker": "望月"
@@ -47,6 +41,55 @@
         "event": "入金",
         "amount": 131780,
         "worker": "村椿昭二"
+      },
+      {
+        "customer": "赤岡敏夫",
+        "work_type": "食洗器",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "小泉"
+      },
+      {
+        "customer": "齊藤千晶",
+        "work_type": "トイレ工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "中山久子",
+        "work_type": "トイレ",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "石田博昭"
+      },
+      {
+        "customer": "森本義治",
+        "work_type": "トイレ工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "安藤裕梨",
+        "work_type": "コンセント増設工事",
+        "event": "着工",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "深澤健博",
+        "work_type": "トイレ",
+        "event": "着工",
+        "amount": 0,
+        "worker": "石倉"
+      },
+      {
+        "customer": "石田広美",
+        "work_type": "給湯器",
+        "event": "着工",
+        "amount": 0,
+        "worker": "小川"
       }
     ]
   },
