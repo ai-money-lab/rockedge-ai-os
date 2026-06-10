@@ -566,5 +566,92 @@
     "total_payment": 0,
     "urgent_count": 0,
     "cases": []
+  },
+  {
+    "week": "2026-05-30 ~ 2026-06-06",
+    "completion_count": 2,
+    "payment_count": 2,
+    "site_survey_count": 0,
+    "total_payment": 349180,
+    "urgent_count": 2,
+    "cases": [
+      {
+        "customer": "森本義治",
+        "work_type": "トイレ工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江啓太"
+      },
+      {
+        "customer": "大西真希",
+        "work_type": "食洗機交換工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "石田広美",
+        "work_type": "給湯器",
+        "event": "入金",
+        "amount": 217400,
+        "worker": "小川"
+      },
+      {
+        "customer": "加納博之",
+        "work_type": "複合工事",
+        "event": "入金",
+        "amount": 131780,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "赤岡敏夫",
+        "work_type": "食洗器",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "小泉"
+      },
+      {
+        "customer": "齊藤千晶",
+        "work_type": "トイレ工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "中山久子",
+        "work_type": "トイレ",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "石田博昭"
+      },
+      {
+        "customer": "森本義治",
+        "work_type": "トイレ工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "安藤裕梨",
+        "work_type": "コンセント増設工事",
+        "event": "着工",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "深澤健博",
+        "work_type": "トイレ",
+        "event": "着工",
+        "amount": 0,
+        "worker": "石倉"
+      },
+      {
+        "customer": "石田広美",
+        "work_type": "給湯器",
+        "event": "着工",
+        "amount": 0,
+        "worker": "小川"
+      }
+    ]
   }
 ]
