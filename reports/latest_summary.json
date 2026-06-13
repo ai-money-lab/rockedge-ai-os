@@ -1,75 +1,53 @@
 {
-  "generated_at": "2026-06-13T12:33:23.068173+09:00",
+  "generated_at": "2026-06-13T13:37:22.208226+09:00",
   "week": "2026-06-06 ~ 2026-06-13",
   "andpad": {
     "total_count": 15,
     "completion_count": 3,
-    "payment_count": 2,
+    "payment_count": 0,
     "site_survey_count": 1,
     "start_count": 0,
-    "total_payment_amount": 192750,
+    "total_payment_amount": 0,
     "urgent_items": [
-      "20260428調布店井上雅詩様邸トイレ工事 現調日3日前（6/15予定）",
-      "20260609調布店齋田明様邸トイレ工事 日程調整連絡当日（6/12）",
-      "20251220調布店柳川洋子様邸 納期延長により7/1以降で日程調整必要"
+      "20260609調布店齋田明様邸トイレ工事：日程調整連絡当日（6/12）",
+      "20260428調布店井上雅詩様邸トイレ工事：現調日3日前（6/15予定）"
     ],
-    "summary": "完工3件、入金2件（計192,750円）、現調・日程調整案件あり、納期延長対応1件",
+    "summary": "完工3件、商品入荷1件、日程調整・現調リマインド各1件、ログイン通知9件",
     "cases": [
       {
-        "customer": "船坂光正",
+        "customer": "船坂光正様",
         "work_type": "トイレ、洗面台工事",
         "event": "完工",
         "amount": 0,
-        "worker": "安江啓太"
+        "worker": "安江啓太（望月担当）"
       },
       {
-        "customer": "神保早苗",
+        "customer": "神保早苗様",
         "work_type": "食洗機",
         "event": "完工",
         "amount": 0,
-        "worker": "安江啓太"
+        "worker": "安江啓太（今野担当）"
       },
       {
-        "customer": "細見祐二",
+        "customer": "細見祐二様",
         "work_type": "トイレ",
         "event": "完工",
         "amount": 0,
         "worker": "石倉"
       },
       {
-        "customer": "安藤裕梨",
-        "work_type": "コンセント増設工事",
-        "event": "入金",
-        "amount": 25000,
-        "worker": "村椿昭二"
-      },
-      {
-        "customer": "住田晶範",
-        "work_type": "洗面化粧台",
-        "event": "入金",
-        "amount": 167750,
-        "worker": "小川"
-      },
-      {
-        "customer": "井上雅詩",
-        "work_type": "トイレ工事",
-        "event": "現調",
-        "amount": 0,
-        "worker": "眞鍋"
-      },
-      {
-        "customer": "加納博之",
+        "customer": "加納博之様",
         "work_type": "複合工事",
         "event": "商品入荷",
         "amount": 0,
         "worker": "村椿昭二"
       },
       {
-        "customer": "齋田明",
+        "customer": "井上雅詩様",
         "work_type": "トイレ工事",
-        "event": "日程調整",
+        "event": "現調",
         "amount": 0,
-        "worker": "村椿昭二"
+        "worker": "眞鍋"
       }
     ]
   },
