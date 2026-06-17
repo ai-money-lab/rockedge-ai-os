@@ -653,5 +653,50 @@
         "worker": "小川"
       }
     ]
+  },
+  {
+    "week": "2026-06-06 ~ 2026-06-13",
+    "completion_count": 3,
+    "payment_count": 0,
+    "site_survey_count": 1,
+    "total_payment": 0,
+    "urgent_count": 2,
+    "cases": [
+      {
+        "customer": "船坂光正様",
+        "work_type": "トイレ、洗面台工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江啓太（望月担当）"
+      },
+      {
+        "customer": "神保早苗様",
+        "work_type": "食洗機",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江啓太（今野担当）"
+      },
+      {
+        "customer": "細見祐二様",
+        "work_type": "トイレ",
+        "event": "完工",
+        "amount": 0,
+        "worker": "石倉"
+      },
+      {
+        "customer": "加納博之様",
+        "work_type": "複合工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "井上雅詩様",
+        "work_type": "トイレ工事",
+        "event": "現調",
+        "amount": 0,
+        "worker": "眞鍋"
+      }
+    ]
   }
 ]
