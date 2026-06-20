@@ -1,39 +1,29 @@
 {
-  "generated_at": "2026-06-13T13:37:22.208226+09:00",
-  "week": "2026-06-06 ~ 2026-06-13",
+  "generated_at": "2026-06-20T12:31:21.684745+09:00",
+  "week": "2026-06-13 ~ 2026-06-20",
   "andpad": {
     "total_count": 15,
-    "completion_count": 3,
-    "payment_count": 0,
+    "completion_count": 1,
+    "payment_count": 1,
     "site_survey_count": 1,
     "start_count": 0,
     "total_payment_amount": 0,
-    "urgent_items": [
-      "20260609調布店齋田明様邸トイレ工事：日程調整連絡当日（6/12）",
-      "20260428調布店井上雅詩様邸トイレ工事：現調日3日前（6/15予定）"
-    ],
-    "summary": "完工3件、商品入荷1件、日程調整・現調リマインド各1件、ログイン通知9件",
+    "urgent_items": [],
+    "summary": "ANDPADログイン通知多数。完工1件、商品入荷連絡2件、現調予定1件、入金通知1件。",
     "cases": [
       {
-        "customer": "船坂光正様",
-        "work_type": "トイレ、洗面台工事",
+        "customer": "下風隆子様",
+        "work_type": "ガステーブル",
         "event": "完工",
         "amount": 0,
-        "worker": "安江啓太（望月担当）"
+        "worker": "今野"
       },
       {
-        "customer": "神保早苗様",
-        "work_type": "食洗機",
-        "event": "完工",
-        "amount": 0,
-        "worker": "安江啓太（今野担当）"
-      },
-      {
-        "customer": "細見祐二様",
+        "customer": "知花久子様",
         "work_type": "トイレ",
-        "event": "完工",
+        "event": "商品入荷",
         "amount": 0,
-        "worker": "石倉"
+        "worker": "小平店"
       },
       {
         "customer": "加納博之様",
@@ -43,13 +33,20 @@
         "worker": "村椿昭二"
       },
       {
-        "customer": "井上雅詩様",
-        "work_type": "トイレ工事",
+        "customer": "橋本様",
+        "work_type": "現調",
         "event": "現調",
         "amount": 0,
-        "worker": "眞鍋"
+        "worker": "HRK MYO"
+      },
+      {
+        "customer": "楽天銀行",
+        "work_type": "入金",
+        "event": "入金",
+        "amount": 0,
+        "worker": ""
       }
     ]
   },
-  "important_count": 15
+  "important_count": 10
 }
