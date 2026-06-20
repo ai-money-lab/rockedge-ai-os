@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T12:31:21.684745+09:00",
+  "generated_at": "2026-06-20T13:20:38.468738+09:00",
   "week": "2026-06-13 ~ 2026-06-20",
   "andpad": {
     "total_count": 15,
@@ -9,44 +9,37 @@
     "start_count": 0,
     "total_payment_amount": 0,
     "urgent_items": [],
-    "summary": "ANDPADログイン通知多数。完工1件、商品入荷連絡2件、現調予定1件、入金通知1件。",
+    "summary": "ログイン通知多数。完工1件、入金1件、現調1件、新規案件招待1件を確認。",
     "cases": [
       {
-        "customer": "下風隆子様",
-        "work_type": "ガステーブル",
-        "event": "完工",
+        "customer": "宇野　千鶴子",
+        "work_type": "食洗機",
+        "event": "着工",
         "amount": 0,
-        "worker": "今野"
+        "worker": "石倉"
       },
       {
-        "customer": "知花久子様",
-        "work_type": "トイレ",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "小平店"
-      },
-      {
-        "customer": "加納博之様",
-        "work_type": "複合工事",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "村椿昭二"
-      },
-      {
-        "customer": "橋本様",
+        "customer": "橋本",
         "work_type": "現調",
         "event": "現調",
         "amount": 0,
         "worker": "HRK MYO"
       },
       {
-        "customer": "楽天銀行",
-        "work_type": "入金",
+        "customer": "知花久子",
+        "work_type": "トイレ",
         "event": "入金",
         "amount": 0,
-        "worker": ""
+        "worker": "布沢"
+      },
+      {
+        "customer": "下風隆子",
+        "work_type": "ガステーブル",
+        "event": "完工",
+        "amount": 0,
+        "worker": "今野"
       }
     ]
   },
-  "important_count": 10
+  "important_count": 11
 }
