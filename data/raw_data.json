@@ -698,5 +698,43 @@
         "worker": "眞鍋"
       }
     ]
+  },
+  {
+    "week": "2026-06-13 ~ 2026-06-20",
+    "completion_count": 1,
+    "payment_count": 1,
+    "site_survey_count": 1,
+    "total_payment": 0,
+    "urgent_count": 0,
+    "cases": [
+      {
+        "customer": "宇野　千鶴子",
+        "work_type": "食洗機",
+        "event": "着工",
+        "amount": 0,
+        "worker": "石倉"
+      },
+      {
+        "customer": "橋本",
+        "work_type": "現調",
+        "event": "現調",
+        "amount": 0,
+        "worker": "HRK MYO"
+      },
+      {
+        "customer": "知花久子",
+        "work_type": "トイレ",
+        "event": "入金",
+        "amount": 0,
+        "worker": "布沢"
+      },
+      {
+        "customer": "下風隆子",
+        "work_type": "ガステーブル",
+        "event": "完工",
+        "amount": 0,
+        "worker": "今野"
+      }
+    ]
   }
 ]
