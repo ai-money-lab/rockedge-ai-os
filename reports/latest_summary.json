@@ -1,45 +1,69 @@
 {
-  "generated_at": "2026-06-20T13:20:38.468738+09:00",
-  "week": "2026-06-13 ~ 2026-06-20",
+  "generated_at": "2026-06-27T11:55:01.280983+09:00",
+  "week": "2026-06-20 ~ 2026-06-27",
   "andpad": {
     "total_count": 15,
-    "completion_count": 1,
-    "payment_count": 1,
+    "completion_count": 3,
+    "payment_count": 0,
     "site_survey_count": 1,
     "start_count": 0,
     "total_payment_amount": 0,
-    "urgent_items": [],
-    "summary": "ログイン通知多数。完工1件、入金1件、現調1件、新規案件招待1件を確認。",
+    "urgent_items": [
+      "6/27当日：藤田正子様邸ビルトインコンロ入替工事の現調",
+      "6/27当日：調布店トリウミ様邸給湯器工事の日程調整連絡"
+    ],
+    "summary": "完工3件、現調1件、新規案件招待1件。ログイン通知9件。",
     "cases": [
       {
-        "customer": "宇野　千鶴子",
-        "work_type": "食洗機",
-        "event": "着工",
+        "customer": "溝井美保",
+        "work_type": "トイレ",
+        "event": "招待",
         "amount": 0,
-        "worker": "石倉"
+        "worker": "小川"
       },
       {
-        "customer": "橋本",
-        "work_type": "現調",
+        "customer": "調布店トリウミ",
+        "work_type": "給湯器工事",
+        "event": "日程調整当日",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "藤田正子",
+        "work_type": "ビルトインコンロ入替工事",
+        "event": "現調当日",
+        "amount": 0,
+        "worker": "堀"
+      },
+      {
+        "customer": "岡田緑",
+        "work_type": "ビルトイン食洗器",
         "event": "現調",
         "amount": 0,
-        "worker": "HRK MYO"
+        "worker": "村椿/安江啓太"
       },
       {
-        "customer": "知花久子",
-        "work_type": "トイレ",
-        "event": "入金",
-        "amount": 0,
-        "worker": "布沢"
-      },
-      {
-        "customer": "下風隆子",
-        "work_type": "ガステーブル",
+        "customer": "宮下恭子",
+        "work_type": "食洗器",
         "event": "完工",
         "amount": 0,
-        "worker": "今野"
+        "worker": "安江啓太"
+      },
+      {
+        "customer": "富田孝",
+        "work_type": "浴室乾燥工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "村椿/安江啓太"
+      },
+      {
+        "customer": "齊藤千晶",
+        "work_type": "トイレ工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "望月"
       }
     ]
   },
-  "important_count": 11
+  "important_count": 15
 }
