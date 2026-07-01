@@ -736,5 +736,64 @@
         "worker": "今野"
       }
     ]
+  },
+  {
+    "week": "2026-06-20 ~ 2026-06-27",
+    "completion_count": 3,
+    "payment_count": 0,
+    "site_survey_count": 1,
+    "total_payment": 0,
+    "urgent_count": 3,
+    "cases": [
+      {
+        "customer": "溝井美保",
+        "work_type": "トイレ",
+        "event": "招待",
+        "amount": 0,
+        "worker": "小川"
+      },
+      {
+        "customer": "宮下恭子",
+        "work_type": "食洗器",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江啓太"
+      },
+      {
+        "customer": "富田孝",
+        "work_type": "浴室乾燥工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "村椿"
+      },
+      {
+        "customer": "齊藤千晶",
+        "work_type": "トイレ工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "岡田緑",
+        "work_type": "ビルトイン食洗器",
+        "event": "現調",
+        "amount": 0,
+        "worker": "村椿"
+      },
+      {
+        "customer": "藤田正子",
+        "work_type": "ビルトインコンロ入替工事",
+        "event": "現調当日",
+        "amount": 0,
+        "worker": "堀"
+      },
+      {
+        "customer": "トリウミ",
+        "work_type": "給湯器工事",
+        "event": "日程調整当日",
+        "amount": 0,
+        "worker": "村椿昭二"
+      }
+    ]
   }
 ]
