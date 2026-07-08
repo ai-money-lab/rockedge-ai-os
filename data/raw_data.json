@@ -795,5 +795,64 @@
         "worker": "村椿昭二"
       }
     ]
+  },
+  {
+    "week": "2026-06-27 ~ 2026-07-04",
+    "completion_count": 0,
+    "payment_count": 1,
+    "site_survey_count": 0,
+    "total_payment": 0,
+    "urgent_count": 3,
+    "cases": [
+      {
+        "customer": "楽天銀行",
+        "work_type": "入金",
+        "event": "入金",
+        "amount": 0,
+        "worker": "宮尾大樹"
+      },
+      {
+        "customer": "岡田緑",
+        "work_type": "ビルトイン食洗器",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "村椿"
+      },
+      {
+        "customer": "村瀬満高",
+        "work_type": "トイレ工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "眞鍋"
+      },
+      {
+        "customer": "宇野千鶴子",
+        "work_type": "食洗機",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "石倉"
+      },
+      {
+        "customer": "松原美之",
+        "work_type": "コンロ・レンジフード工事",
+        "event": "日程調整3日前",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "東風明",
+        "work_type": "トイレ工事",
+        "event": "日程調整3日前",
+        "amount": 0,
+        "worker": "石田博昭"
+      },
+      {
+        "customer": "亀倉保男",
+        "work_type": "水栓交換",
+        "event": "アポ確認要",
+        "amount": 0,
+        "worker": "小川"
+      }
+    ]
   }
 ]
