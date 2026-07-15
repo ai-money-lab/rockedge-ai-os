@@ -854,5 +854,36 @@
         "worker": "小川"
       }
     ]
+  },
+  {
+    "week": "2026-07-04 ~ 2026-07-11",
+    "completion_count": 2,
+    "payment_count": 0,
+    "site_survey_count": 1,
+    "total_payment": 0,
+    "urgent_count": 2,
+    "cases": [
+      {
+        "customer": "加納博之様",
+        "work_type": "複合工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江啓太"
+      },
+      {
+        "customer": "赤岡敏夫様",
+        "work_type": "食洗器",
+        "event": "完工",
+        "amount": 0,
+        "worker": "小泉"
+      },
+      {
+        "customer": "伊藤和栄様",
+        "work_type": "ビルトインコンロ・ガス給湯器",
+        "event": "現調",
+        "amount": 0,
+        "worker": "安江啓太/今野"
+      }
+    ]
   }
 ]
