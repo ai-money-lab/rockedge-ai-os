@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T11:15:44.919164+09:00",
+  "generated_at": "2026-07-18T12:13:54.854880+09:00",
   "week": "2026-07-11 ~ 2026-07-18",
   "andpad": {
     "total_count": 15,
@@ -9,33 +9,41 @@
     "start_count": 1,
     "total_payment_amount": 0,
     "urgent_items": [
-      "7/4鈴木康之様邸防犯カメラ（福井）が現調日3日前（7/17通知）"
+      "7/4鈴木康之様邸防犯カメラ（福井）案件が現調日3日前（7/20予定）",
+      "6/8宮野洗面台中村賢太郎様邸の商品が2026-07-17に入荷済み"
     ],
-    "summary": "ログイン通知9件、案件通知4件。現調3日前1件、着工1件、商品入荷1件、新規案件招待1件。",
+    "summary": "案件招待2件、着工1件、現調3日前リマインド1件、商品入荷1件、ログイン通知12件",
     "cases": [
       {
-        "customer": "鈴木康之様",
+        "customer": "宇井ひろみ",
+        "work_type": "トイレ工事",
+        "event": "招待",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "鈴木康之",
         "work_type": "防犯カメラ",
         "event": "現調",
         "amount": 0,
         "worker": "不明"
       },
       {
-        "customer": "中村賢太郎様",
+        "customer": "中村賢太郎",
         "work_type": "洗面台",
         "event": "商品入荷",
         "amount": 0,
         "worker": "小平店"
       },
       {
-        "customer": "千葉弘治様",
+        "customer": "千葉弘治",
         "work_type": "トイレ入替工事",
-        "event": "案件招待",
+        "event": "招待",
         "amount": 0,
         "worker": "村椿昭二"
       },
       {
-        "customer": "継正雄様",
+        "customer": "継正雄",
         "work_type": "換気扇工事",
         "event": "着工",
         "amount": 0,
