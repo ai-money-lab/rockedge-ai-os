@@ -1,39 +1,45 @@
 {
-  "generated_at": "2026-07-11T12:26:42.932425+09:00",
-  "week": "2026-07-04 ~ 2026-07-11",
+  "generated_at": "2026-07-18T11:15:44.919164+09:00",
+  "week": "2026-07-11 ~ 2026-07-18",
   "andpad": {
     "total_count": 15,
-    "completion_count": 2,
+    "completion_count": 0,
     "payment_count": 0,
     "site_survey_count": 1,
-    "start_count": 0,
+    "start_count": 1,
     "total_payment_amount": 0,
     "urgent_items": [
-      "猪子大治様邸トイレ工事：電話連絡が取れず、しつこく架電中（至急対応必要）",
-      "柏木朗様邸トイレ工事：商品入荷済み、工事アポ取り依頼（同様案件あと2件）"
+      "7/4鈴木康之様邸防犯カメラ（福井）が現調日3日前（7/17通知）"
     ],
-    "summary": "完工2件、現調1件。ログイン通知多数。猪子様邸連絡と柏木様邸アポ取りが急務。",
+    "summary": "ログイン通知9件、案件通知4件。現調3日前1件、着工1件、商品入荷1件、新規案件招待1件。",
     "cases": [
       {
-        "customer": "加納博之様",
-        "work_type": "複合工事",
-        "event": "完工",
-        "amount": 0,
-        "worker": "安江啓太"
-      },
-      {
-        "customer": "赤岡敏夫様",
-        "work_type": "食洗器",
-        "event": "完工",
-        "amount": 0,
-        "worker": "小泉"
-      },
-      {
-        "customer": "伊藤和栄様",
-        "work_type": "ビルトインコンロ・ガス給湯器",
+        "customer": "鈴木康之様",
+        "work_type": "防犯カメラ",
         "event": "現調",
         "amount": 0,
-        "worker": "安江啓太/今野"
+        "worker": "不明"
+      },
+      {
+        "customer": "中村賢太郎様",
+        "work_type": "洗面台",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "小平店"
+      },
+      {
+        "customer": "千葉弘治様",
+        "work_type": "トイレ入替工事",
+        "event": "案件招待",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "継正雄様",
+        "work_type": "換気扇工事",
+        "event": "着工",
+        "amount": 0,
+        "worker": "村椿昭二"
       }
     ]
   },
