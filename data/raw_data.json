@@ -885,5 +885,50 @@
         "worker": "安江啓太/今野"
       }
     ]
+  },
+  {
+    "week": "2026-07-11 ~ 2026-07-18",
+    "completion_count": 0,
+    "payment_count": 0,
+    "site_survey_count": 1,
+    "total_payment": 0,
+    "urgent_count": 2,
+    "cases": [
+      {
+        "customer": "宇井ひろみ",
+        "work_type": "トイレ工事",
+        "event": "招待",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "鈴木康之",
+        "work_type": "防犯カメラ",
+        "event": "現調",
+        "amount": 0,
+        "worker": "不明"
+      },
+      {
+        "customer": "中村賢太郎",
+        "work_type": "洗面台",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "小平店"
+      },
+      {
+        "customer": "千葉弘治",
+        "work_type": "トイレ入替工事",
+        "event": "招待",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "継正雄",
+        "work_type": "換気扇工事",
+        "event": "着工",
+        "amount": 0,
+        "worker": "村椿昭二"
+      }
+    ]
   }
 ]
