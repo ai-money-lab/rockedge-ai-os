@@ -1,52 +1,60 @@
 {
-  "generated_at": "2026-07-25T11:28:48.264182+09:00",
+  "generated_at": "2026-07-25T12:25:53.656698+09:00",
   "week": "2026-07-18 ~ 2026-07-25",
   "andpad": {
     "total_count": 15,
     "completion_count": 0,
-    "payment_count": 0,
-    "site_survey_count": 0,
-    "start_count": 1,
-    "total_payment_amount": 0,
+    "payment_count": 1,
+    "site_survey_count": 1,
+    "start_count": 0,
+    "total_payment_amount": 109780,
     "urgent_items": [
-      "7/24納品日当日：20260716調布店　前川　智彦様邸レンジフード交換　望月案件"
+      "20260716調布店　前川　智彦様邸レンジフード交換　望月：納品日当日（7/24）",
+      "0725 野村　雄治様邸 トイレ：入金報告あり、CF後日来店入金予定"
     ],
-    "summary": "ログイン通知11件、着工1件、現調報告1件、商品入荷2件。前川様邸レンジフード交換が納品日当日対応要。",
+    "summary": "入金1件(109,780円)、現調1件、商品入荷4件、新規案件招待2件",
     "cases": [
       {
-        "customer": "宇井ひろみ様邸",
-        "work_type": "トイレ工事",
-        "event": "着工",
-        "amount": 0,
-        "worker": "村椿昭二"
+        "customer": "野村　雄治",
+        "work_type": "トイレ",
+        "event": "入金",
+        "amount": 109780,
+        "worker": "小川"
       },
       {
-        "customer": "関礼輔様邸",
+        "customer": "関礼輔",
         "work_type": "IHコンロ工事",
         "event": "現調",
         "amount": 0,
-        "worker": "安江 啓太/石田博昭"
+        "worker": "安江 啓太"
       },
       {
-        "customer": "中村　賢太郎様邸",
+        "customer": "前川　智彦",
+        "work_type": "レンジフード交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "廣元勝志",
+        "work_type": "ビルトインコンロ",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "石田博昭"
+      },
+      {
+        "customer": "中村　賢太郎",
         "work_type": "洗面台",
         "event": "商品入荷",
         "amount": 0,
-        "worker": "小平店/宮野"
+        "worker": "宮野"
       },
       {
-        "customer": "井手　基雄様邸",
+        "customer": "井手　基雄",
         "work_type": "トイレ、CF、クロス",
         "event": "商品入荷",
         "amount": 0,
-        "worker": "小平店/石倉"
-      },
-      {
-        "customer": "前川　智彦様邸",
-        "work_type": "レンジフード交換",
-        "event": "納品日当日",
-        "amount": 0,
-        "worker": "望月"
+        "worker": "石倉"
       }
     ]
   },
