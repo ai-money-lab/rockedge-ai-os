@@ -930,5 +930,57 @@
         "worker": "村椿昭二"
       }
     ]
+  },
+  {
+    "week": "2026-07-18 ~ 2026-07-25",
+    "completion_count": 0,
+    "payment_count": 1,
+    "site_survey_count": 1,
+    "total_payment": 109780,
+    "urgent_count": 2,
+    "cases": [
+      {
+        "customer": "野村　雄治",
+        "work_type": "トイレ",
+        "event": "入金",
+        "amount": 109780,
+        "worker": "小川"
+      },
+      {
+        "customer": "関礼輔",
+        "work_type": "IHコンロ工事",
+        "event": "現調",
+        "amount": 0,
+        "worker": "安江 啓太"
+      },
+      {
+        "customer": "前川　智彦",
+        "work_type": "レンジフード交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "廣元勝志",
+        "work_type": "ビルトインコンロ",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "石田博昭"
+      },
+      {
+        "customer": "中村　賢太郎",
+        "work_type": "洗面台",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "宮野"
+      },
+      {
+        "customer": "井手　基雄",
+        "work_type": "トイレ、CF、クロス",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "石倉"
+      }
+    ]
   }
 ]
