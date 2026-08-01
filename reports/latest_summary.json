@@ -1,60 +1,74 @@
 {
-  "generated_at": "2026-07-25T12:25:53.656698+09:00",
-  "week": "2026-07-18 ~ 2026-07-25",
+  "generated_at": "2026-08-01T11:36:14.467556+09:00",
+  "week": "2026-07-25 ~ 2026-08-01",
   "andpad": {
     "total_count": 15,
     "completion_count": 0,
-    "payment_count": 1,
-    "site_survey_count": 1,
+    "payment_count": 2,
+    "site_survey_count": 2,
     "start_count": 0,
-    "total_payment_amount": 109780,
+    "total_payment_amount": 197560,
     "urgent_items": [
-      "20260716調布店　前川　智彦様邸レンジフード交換　望月：納品日当日（7/24）",
-      "0725 野村　雄治様邸 トイレ：入金報告あり、CF後日来店入金予定"
+      "西川由利子様邸外壁工事とシステムキッチンの日程調整連絡が当日（7/31）",
+      "岡本房子様邸トイレの入金報告・発注依頼（赤黒処理含む2件）"
     ],
-    "summary": "入金1件(109,780円)、現調1件、商品入荷4件、新規案件招待2件",
+    "summary": "入金2件（計197,560円）、現調2件、日程調整当日案件2件、新規案件招待1件",
     "cases": [
       {
-        "customer": "野村　雄治",
+        "customer": "岡本房子",
         "work_type": "トイレ",
         "event": "入金",
-        "amount": 109780,
-        "worker": "小川"
+        "amount": 98780,
+        "worker": "宮野"
       },
       {
-        "customer": "関礼輔",
-        "work_type": "IHコンロ工事",
-        "event": "現調",
+        "customer": "岡本房子",
+        "work_type": "トイレ（赤黒処理）",
+        "event": "入金",
+        "amount": 98780,
+        "worker": "宮野"
+      },
+      {
+        "customer": "中野れい子",
+        "work_type": "トイレ入替工事",
+        "event": "案件招待",
         "amount": 0,
-        "worker": "安江 啓太"
+        "worker": "堀"
       },
       {
-        "customer": "前川　智彦",
-        "work_type": "レンジフード交換",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "望月"
-      },
-      {
-        "customer": "廣元勝志",
-        "work_type": "ビルトインコンロ",
-        "event": "商品入荷",
+        "customer": "田村",
+        "work_type": "レンジフード",
+        "event": "日報（契約書申請）",
         "amount": 0,
         "worker": "石田博昭"
       },
       {
-        "customer": "中村　賢太郎",
-        "work_type": "洗面台",
-        "event": "商品入荷",
+        "customer": "門司安功",
+        "work_type": "ガスコンロ",
+        "event": "現調",
         "amount": 0,
-        "worker": "宮野"
+        "worker": "安江啓太"
       },
       {
-        "customer": "井手　基雄",
-        "work_type": "トイレ、CF、クロス",
-        "event": "商品入荷",
+        "customer": "岡本房子",
+        "work_type": "トイレ",
+        "event": "現調",
         "amount": 0,
-        "worker": "石倉"
+        "worker": "安江啓太"
+      },
+      {
+        "customer": "西川由利子",
+        "work_type": "外壁工事",
+        "event": "日程調整当日",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "西川由利子",
+        "work_type": "システムキッチン",
+        "event": "日程調整当日",
+        "amount": 0,
+        "worker": "村椿昭二"
       }
     ]
   },
