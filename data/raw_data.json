@@ -982,5 +982,71 @@
         "worker": "石倉"
       }
     ]
+  },
+  {
+    "week": "2026-07-25 ~ 2026-08-01",
+    "completion_count": 0,
+    "payment_count": 2,
+    "site_survey_count": 2,
+    "total_payment": 197560,
+    "urgent_count": 3,
+    "cases": [
+      {
+        "customer": "岡本房子",
+        "work_type": "トイレ",
+        "event": "入金",
+        "amount": 98780,
+        "worker": "宮野"
+      },
+      {
+        "customer": "岡本房子",
+        "work_type": "トイレ（赤黒処理）",
+        "event": "入金",
+        "amount": 98780,
+        "worker": "宮野"
+      },
+      {
+        "customer": "岡本房子",
+        "work_type": "トイレ",
+        "event": "現調",
+        "amount": 0,
+        "worker": "安江啓太"
+      },
+      {
+        "customer": "門司安功",
+        "work_type": "ガスコンロ",
+        "event": "現調",
+        "amount": 0,
+        "worker": "安江啓太"
+      },
+      {
+        "customer": "西川由利子",
+        "work_type": "外壁工事",
+        "event": "日程調整",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "西川由利子",
+        "work_type": "システムキッチン",
+        "event": "日程調整",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "中野れい子",
+        "work_type": "トイレ入替工事",
+        "event": "案件招待",
+        "amount": 0,
+        "worker": "堀"
+      },
+      {
+        "customer": "田村",
+        "work_type": "レンジフード",
+        "event": "契約書申請",
+        "amount": 0,
+        "worker": "石田博昭"
+      }
+    ]
   }
 ]
