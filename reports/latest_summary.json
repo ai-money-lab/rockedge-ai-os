@@ -1,75 +1,53 @@
 {
-  "generated_at": "2026-08-01T12:37:03.117084+09:00",
-  "week": "2026-07-25 ~ 2026-08-01",
+  "generated_at": "2026-08-08T10:23:02.919285+09:00",
+  "week": "2026-08-01 ~ 2026-08-08",
   "andpad": {
-    "total_count": 15,
-    "completion_count": 0,
+    "total_count": 16,
+    "completion_count": 2,
     "payment_count": 2,
-    "site_survey_count": 2,
+    "site_survey_count": 1,
     "start_count": 0,
-    "total_payment_amount": 197560,
+    "total_payment_amount": 369600,
     "urgent_items": [
-      "7/18宮野トイレ岡本房子様邸の赤黒処理による重複入金報告（2件）",
-      "20260729調布店西川由利子様邸の日程調整連絡当日（外壁・キッチン）",
-      "20260629調布店田村様レンジフード請負契約書申請"
+      "20260731調布店髙木暁子様邸レンジフード交換工事が本日現調日当日",
+      "複数回のログイン通知あり（セキュリティ確認推奨）"
     ],
-    "summary": "入金2件（岡本様98,780円×2、赤黒処理）、現調2件（岡本様トイレ、門司様ガスコンロ）、日程調整2件、契約書申請1件",
+    "summary": "完工2件、入金2件（計36.96万円）、現調1件。ログイン通知多数。",
     "cases": [
       {
-        "customer": "岡本房子",
-        "work_type": "トイレ",
-        "event": "入金",
-        "amount": 98780,
-        "worker": "宮野"
-      },
-      {
-        "customer": "岡本房子",
-        "work_type": "トイレ（赤黒処理）",
-        "event": "入金",
-        "amount": 98780,
-        "worker": "宮野"
-      },
-      {
-        "customer": "岡本房子",
-        "work_type": "トイレ",
-        "event": "現調",
+        "customer": "柳川洋子",
+        "work_type": "お風呂一式内窓トイレ洗面台",
+        "event": "完工",
         "amount": 0,
-        "worker": "安江啓太"
+        "worker": "坂口隆一"
       },
       {
-        "customer": "門司安功",
-        "work_type": "ガスコンロ",
-        "event": "現調",
-        "amount": 0,
-        "worker": "安江啓太"
-      },
-      {
-        "customer": "西川由利子",
-        "work_type": "外壁工事",
-        "event": "日程調整",
+        "customer": "齋田明",
+        "work_type": "トイレ工事",
+        "event": "完工",
         "amount": 0,
         "worker": "村椿昭二"
       },
       {
-        "customer": "西川由利子",
-        "work_type": "システムキッチン",
-        "event": "日程調整",
-        "amount": 0,
-        "worker": "村椿昭二"
+        "customer": "奥原佳伸",
+        "work_type": "トイレ交換及び給湯器交換工事",
+        "event": "入金",
+        "amount": 173800,
+        "worker": "望月"
       },
       {
-        "customer": "中野れい子",
-        "work_type": "トイレ入替工事",
-        "event": "案件招待",
-        "amount": 0,
-        "worker": "堀"
+        "customer": "奥原佳伸",
+        "work_type": "トイレ交換及び給湯器交換工事",
+        "event": "入金",
+        "amount": 195800,
+        "worker": "望月"
       },
       {
-        "customer": "田村",
-        "work_type": "レンジフード",
-        "event": "契約書申請",
+        "customer": "髙木暁子",
+        "work_type": "レンジフード交換工事",
+        "event": "現調",
         "amount": 0,
-        "worker": "石田博昭"
+        "worker": "望月"
       }
     ]
   },
