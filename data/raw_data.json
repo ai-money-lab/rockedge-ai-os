@@ -1048,5 +1048,57 @@
         "worker": "石田博昭"
       }
     ]
+  },
+  {
+    "week": "2026-08-01 ~ 2026-08-08",
+    "completion_count": 2,
+    "payment_count": 2,
+    "site_survey_count": 1,
+    "total_payment": 369600,
+    "urgent_count": 0,
+    "cases": [
+      {
+        "customer": "柳川洋子",
+        "work_type": "お風呂一式内窓トイレ洗面台",
+        "event": "完工",
+        "amount": 0,
+        "worker": "坂口隆一"
+      },
+      {
+        "customer": "齋田明",
+        "work_type": "トイレ工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "奥原佳伸",
+        "work_type": "トイレ交換及び給湯器交換工事",
+        "event": "入金",
+        "amount": 173800,
+        "worker": "望月"
+      },
+      {
+        "customer": "奥原佳伸",
+        "work_type": "トイレ交換及び給湯器交換工事",
+        "event": "入金",
+        "amount": 195800,
+        "worker": "望月"
+      },
+      {
+        "customer": "髙木暁子",
+        "work_type": "レンジフード交換工事",
+        "event": "現調",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "田中陸秀",
+        "work_type": "給湯器交換",
+        "event": "招待",
+        "amount": 0,
+        "worker": "望月"
+      }
+    ]
   }
 ]
