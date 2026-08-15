@@ -1,57 +1,52 @@
 {
-  "generated_at": "2026-08-08T11:04:53.549473+09:00",
-  "week": "2026-08-01 ~ 2026-08-08",
+  "generated_at": "2026-08-15T10:05:47.272018+09:00",
+  "week": "2026-08-08 ~ 2026-08-15",
   "andpad": {
-    "total_count": 16,
-    "completion_count": 2,
-    "payment_count": 2,
+    "total_count": 15,
+    "completion_count": 1,
+    "payment_count": 1,
     "site_survey_count": 1,
     "start_count": 0,
-    "total_payment_amount": 369600,
-    "urgent_items": [],
-    "summary": "完工2件、入金2件（計36.96万円）、現調1件、ログイン通知多数",
+    "total_payment_amount": 380000,
+    "urgent_items": [
+      "8/14に複数回の新規ログイン通知あり（20:00、20:01、20:05）- セキュリティ確認推奨"
+    ],
+    "summary": "完工1件、入金1件（38万円）、現調1件、新規案件招待2件、商品入荷2件",
     "cases": [
       {
-        "customer": "柳川洋子",
-        "work_type": "お風呂一式内窓トイレ洗面台",
+        "customer": "田村様",
+        "work_type": "レンジフード",
         "event": "完工",
         "amount": 0,
-        "worker": "坂口隆一"
+        "worker": "太田綱吉"
       },
       {
-        "customer": "齋田明",
-        "work_type": "トイレ工事",
-        "event": "完工",
-        "amount": 0,
-        "worker": "村椿昭二"
-      },
-      {
-        "customer": "奥原佳伸",
-        "work_type": "トイレ交換及び給湯器交換工事",
+        "customer": "溝井美保様",
+        "work_type": "トイレ",
         "event": "入金",
-        "amount": 173800,
-        "worker": "望月"
+        "amount": 380000,
+        "worker": "布沢"
       },
       {
-        "customer": "奥原佳伸",
-        "work_type": "トイレ交換及び給湯器交換工事",
-        "event": "入金",
-        "amount": 195800,
-        "worker": "望月"
-      },
-      {
-        "customer": "髙木暁子",
-        "work_type": "レンジフード交換工事",
+        "customer": "髙橋近子様",
+        "work_type": "ビルトインコンロ",
         "event": "現調",
         "amount": 0,
-        "worker": "望月"
+        "worker": "安江啓太"
       },
       {
-        "customer": "田中陸秀",
-        "work_type": "給湯器交換",
-        "event": "招待",
+        "customer": "深澤健博様",
+        "work_type": "トイレ",
+        "event": "着工",
         "amount": 0,
-        "worker": "望月"
+        "worker": "小平店"
+      },
+      {
+        "customer": "鈴木日出男様",
+        "work_type": "トイレリフォーム",
+        "event": "着工",
+        "amount": 0,
+        "worker": "BRANCH調布三鷹通り店"
       }
     ]
   },
