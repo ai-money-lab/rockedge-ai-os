@@ -1100,5 +1100,57 @@
         "worker": "望月"
       }
     ]
+  },
+  {
+    "week": "2026-08-08 ~ 2026-08-15",
+    "completion_count": 0,
+    "payment_count": 1,
+    "site_survey_count": 1,
+    "total_payment": 0,
+    "urgent_count": 0,
+    "cases": [
+      {
+        "customer": "富山様",
+        "work_type": "トイレ・CF交換",
+        "event": "招待",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "松田淳様",
+        "work_type": "ビルトイン食洗器交換",
+        "event": "招待",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "深澤健博様",
+        "work_type": "トイレ",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "石倉"
+      },
+      {
+        "customer": "髙橋近子様",
+        "work_type": "ビルトインコンロ",
+        "event": "現調",
+        "amount": 0,
+        "worker": "安江啓太"
+      },
+      {
+        "customer": "鈴木日出男様",
+        "work_type": "トイレリフォーム",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "佐藤"
+      },
+      {
+        "customer": "楽天銀行",
+        "work_type": "入金",
+        "event": "入金",
+        "amount": 0,
+        "worker": "宮尾大樹"
+      }
+    ]
   }
 ]
