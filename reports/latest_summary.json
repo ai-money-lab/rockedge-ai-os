@@ -1,46 +1,33 @@
 {
-  "generated_at": "2026-08-22T10:05:39.029733+09:00",
+  "generated_at": "2026-08-22T10:39:33.100283+09:00",
   "week": "2026-08-15 ~ 2026-08-22",
   "andpad": {
     "total_count": 15,
     "completion_count": 0,
-    "payment_count": 1,
+    "payment_count": 0,
     "site_survey_count": 1,
     "start_count": 0,
-    "total_payment_amount": 146190,
+    "total_payment_amount": 0,
     "urgent_items": [
-      "曽根敏夫様邸IHコンロ工事：案件が止まっており確認が必要（浦川愛子より指摘）",
-      "太田綱吉より駐車場費用負担と追加部材の取り扱いについて質問あり（回答待ち）"
+      "20260817調布店曽根敏夫様邸IHコンロ工事石田の案件が止まっている（浦川さんより確認依頼）",
+      "20260821山田潤様邸トイレ今野の案件に招待された（新規案件）",
+      "太田綱吉さんから駐車場費用と追加部材負担について質問あり（回答待ち）"
     ],
-    "summary": "入金1件（146,190円）、現調1件、案件停滞1件要対応、質問回答待ち1件",
+    "summary": "ログイン通知10件、案件停止確認依頼1件、新規案件招待1件、現調報告1件、協力会社からの質問対応1件",
     "cases": [
       {
-        "customer": "田中陸秀",
-        "work_type": "給湯器交換",
-        "event": "入金",
-        "amount": 146190,
-        "worker": "望月"
-      },
-      {
-        "customer": "曽根敏夫",
-        "work_type": "IHコンロ工事",
-        "event": "現調",
-        "amount": 0,
-        "worker": "安江啓太"
-      },
-      {
-        "customer": "山田潤",
+        "customer": "山田潤様邸",
         "work_type": "トイレ",
-        "event": "着工",
+        "event": "招待",
         "amount": 0,
         "worker": "今野"
       },
       {
-        "customer": "宇井ひろみ",
-        "work_type": "トイレ工事",
-        "event": "入金",
+        "customer": "曽根敏夫様邸",
+        "work_type": "IHコンロ工事",
+        "event": "現調",
         "amount": 0,
-        "worker": "村椿昭二"
+        "worker": "石田・安江啓太"
       }
     ]
   },
