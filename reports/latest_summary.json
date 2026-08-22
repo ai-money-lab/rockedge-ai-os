@@ -1,57 +1,46 @@
 {
-  "generated_at": "2026-08-15T10:40:26.986291+09:00",
-  "week": "2026-08-08 ~ 2026-08-15",
+  "generated_at": "2026-08-22T10:05:39.029733+09:00",
+  "week": "2026-08-15 ~ 2026-08-22",
   "andpad": {
     "total_count": 15,
     "completion_count": 0,
     "payment_count": 1,
     "site_survey_count": 1,
     "start_count": 0,
-    "total_payment_amount": 0,
-    "urgent_items": [],
-    "summary": "案件招待2件、商品入荷3件、現調報告1件、入金1件、ログイン通知9件",
+    "total_payment_amount": 146190,
+    "urgent_items": [
+      "曽根敏夫様邸IHコンロ工事：案件が止まっており確認が必要（浦川愛子より指摘）",
+      "太田綱吉より駐車場費用負担と追加部材の取り扱いについて質問あり（回答待ち）"
+    ],
+    "summary": "入金1件（146,190円）、現調1件、案件停滞1件要対応、質問回答待ち1件",
     "cases": [
       {
-        "customer": "富山様",
-        "work_type": "トイレ・CF交換",
-        "event": "招待",
-        "amount": 0,
+        "customer": "田中陸秀",
+        "work_type": "給湯器交換",
+        "event": "入金",
+        "amount": 146190,
         "worker": "望月"
       },
       {
-        "customer": "松田淳様",
-        "work_type": "ビルトイン食洗器交換",
-        "event": "招待",
-        "amount": 0,
-        "worker": "望月"
-      },
-      {
-        "customer": "深澤健博様",
-        "work_type": "トイレ",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "石倉"
-      },
-      {
-        "customer": "髙橋近子様",
-        "work_type": "ビルトインコンロ",
+        "customer": "曽根敏夫",
+        "work_type": "IHコンロ工事",
         "event": "現調",
         "amount": 0,
         "worker": "安江啓太"
       },
       {
-        "customer": "鈴木日出男様",
-        "work_type": "トイレリフォーム",
-        "event": "商品入荷",
+        "customer": "山田潤",
+        "work_type": "トイレ",
+        "event": "着工",
         "amount": 0,
-        "worker": "佐藤"
+        "worker": "今野"
       },
       {
-        "customer": "楽天銀行",
-        "work_type": "入金",
+        "customer": "宇井ひろみ",
+        "work_type": "トイレ工事",
         "event": "入金",
         "amount": 0,
-        "worker": "宮尾大樹"
+        "worker": "村椿昭二"
       }
     ]
   },
