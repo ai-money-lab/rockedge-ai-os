@@ -1152,5 +1152,29 @@
         "worker": "宮尾大樹"
       }
     ]
+  },
+  {
+    "week": "2026-08-15 ~ 2026-08-22",
+    "completion_count": 0,
+    "payment_count": 0,
+    "site_survey_count": 1,
+    "total_payment": 0,
+    "urgent_count": 3,
+    "cases": [
+      {
+        "customer": "山田潤様邸",
+        "work_type": "トイレ",
+        "event": "招待",
+        "amount": 0,
+        "worker": "今野"
+      },
+      {
+        "customer": "曽根敏夫様邸",
+        "work_type": "IHコンロ工事",
+        "event": "現調",
+        "amount": 0,
+        "worker": "石田・安江啓太"
+      }
+    ]
   }
 ]
