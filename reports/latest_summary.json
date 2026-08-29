@@ -1,15 +1,17 @@
 {
-  "generated_at": "2026-08-29T14:39:44.872807+09:00",
+  "generated_at": "2026-08-29T15:49:16.514109+09:00",
   "week": "2026-08-22 ~ 2026-08-29",
   "andpad": {
     "total_count": 15,
     "completion_count": 1,
     "payment_count": 1,
-    "site_survey_count": 3,
+    "site_survey_count": 2,
     "start_count": 0,
     "total_payment_amount": 131480,
-    "urgent_items": [],
-    "summary": "完工1件、入金1件(13万円)、現調3件、商品入荷4件のログイン通知多数",
+    "urgent_items": [
+      "中井正韓様トイレ工事：商品入荷済み、発注依頼承認待ち（伝票番号260829012232844、入金額131,480円）"
+    ],
+    "summary": "完工1件、入金1件（13.1万円）、現調2件、商品入荷5件を処理",
     "cases": [
       {
         "customer": "中井正韓様",
@@ -19,60 +21,53 @@
         "worker": "布沢"
       },
       {
-        "customer": "鈴木　裕行様邸",
-        "work_type": "トイレ、洗面台、CF",
-        "event": "現調",
-        "amount": 0,
-        "worker": "安江 啓太"
-      },
-      {
-        "customer": "髙橋　近子様邸",
+        "customer": "髙橋　近子様",
         "work_type": "ビルコン",
         "event": "完工",
         "amount": 0,
         "worker": "安江 啓太"
       },
       {
-        "customer": "戸井田尚也様邸",
-        "work_type": "水栓工事",
-        "event": "商品入荷",
+        "customer": "鈴木　裕行様",
+        "work_type": "トイレ、洗面台、CF",
+        "event": "現調",
         "amount": 0,
-        "worker": "BRANCH調布三鷹通り店"
+        "worker": "安江 啓太"
       },
       {
-        "customer": "稲毛恵様邸",
-        "work_type": "水栓交換工事",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "BRANCH調布三鷹通り店"
-      },
-      {
-        "customer": "堀米　整様邸",
-        "work_type": "トイレ、食洗器交換",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "BRANCH調布三鷹通り店"
-      },
-      {
-        "customer": "曽根敏夫様邸",
-        "work_type": "IHコンロ工事",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "BRANCH調布三鷹通り店"
-      },
-      {
-        "customer": "濱田　耕司様邸",
+        "customer": "濱田　耕司様",
         "work_type": "トイレ工事",
         "event": "現調",
         "amount": 0,
         "worker": "安江 啓太"
       },
       {
-        "customer": "富山様邸",
-        "work_type": "トイレ・ＣＦ交換",
-        "event": "現調",
+        "customer": "戸井田尚也様",
+        "work_type": "水栓工事",
+        "event": "商品入荷",
         "amount": 0,
-        "worker": "安江 啓太"
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "稲毛恵様",
+        "work_type": "水栓交換工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "堀"
+      },
+      {
+        "customer": "堀米　整様",
+        "work_type": "トイレ、食洗器交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "曽根敏夫様",
+        "work_type": "IHコンロ工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "石田"
       }
     ]
   },
