@@ -1176,5 +1176,71 @@
         "worker": "石田・安江啓太"
       }
     ]
+  },
+  {
+    "week": "2026-08-22 ~ 2026-08-29",
+    "completion_count": 1,
+    "payment_count": 1,
+    "site_survey_count": 2,
+    "total_payment": 131480,
+    "urgent_count": 1,
+    "cases": [
+      {
+        "customer": "中井正韓様",
+        "work_type": "トイレ",
+        "event": "入金",
+        "amount": 131480,
+        "worker": "布沢"
+      },
+      {
+        "customer": "髙橋　近子様",
+        "work_type": "ビルコン",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江 啓太"
+      },
+      {
+        "customer": "鈴木　裕行様",
+        "work_type": "トイレ、洗面台、CF",
+        "event": "現調",
+        "amount": 0,
+        "worker": "安江 啓太"
+      },
+      {
+        "customer": "濱田　耕司様",
+        "work_type": "トイレ工事",
+        "event": "現調",
+        "amount": 0,
+        "worker": "安江 啓太"
+      },
+      {
+        "customer": "戸井田尚也様",
+        "work_type": "水栓工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "稲毛恵様",
+        "work_type": "水栓交換工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "堀"
+      },
+      {
+        "customer": "堀米　整様",
+        "work_type": "トイレ、食洗器交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "曽根敏夫様",
+        "work_type": "IHコンロ工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "石田"
+      }
+    ]
   }
 ]
