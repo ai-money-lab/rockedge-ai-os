@@ -1,75 +1,64 @@
 {
-  "generated_at": "2026-08-29T15:49:16.514109+09:00",
-  "week": "2026-08-22 ~ 2026-08-29",
+  "generated_at": "2026-09-05T11:58:31.012926+09:00",
+  "week": "2026-08-29 ~ 2026-09-05",
   "andpad": {
     "total_count": 15,
-    "completion_count": 1,
-    "payment_count": 1,
-    "site_survey_count": 2,
+    "completion_count": 0,
+    "payment_count": 0,
+    "site_survey_count": 1,
     "start_count": 0,
-    "total_payment_amount": 131480,
+    "total_payment_amount": 0,
     "urgent_items": [
-      "中井正韓様トイレ工事：商品入荷済み、発注依頼承認待ち（伝票番号260829012232844、入金額131,480円）"
+      "9/5納品日当日：青木恵美子様邸食洗機交換（望月担当）",
+      "9/5現調日当日：蘭祐雄様邸トイレリフォーム（眞鍋担当）",
+      "9/5見積提出日当日：佐々木徹也様邸トイレ工事（望月担当）",
+      "9/5商品入荷連絡3件（ヤマザキカオル様・贄田喜朗様・平野美恵子様）"
     ],
-    "summary": "完工1件、入金1件（13.1万円）、現調2件、商品入荷5件を処理",
+    "summary": "商品入荷3件、納品・現調・見積提出各1件が当日対応必要。ログイン通知多数。",
     "cases": [
       {
-        "customer": "中井正韓様",
+        "customer": "ヤマザキ　カオル",
+        "work_type": "換気扇交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "宝積"
+      },
+      {
+        "customer": "贄田喜朗",
+        "work_type": "トイレ交換工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "望月優"
+      },
+      {
+        "customer": "平野　美恵子",
         "work_type": "トイレ",
-        "event": "入金",
-        "amount": 131480,
-        "worker": "布沢"
-      },
-      {
-        "customer": "髙橋　近子様",
-        "work_type": "ビルコン",
-        "event": "完工",
-        "amount": 0,
-        "worker": "安江 啓太"
-      },
-      {
-        "customer": "鈴木　裕行様",
-        "work_type": "トイレ、洗面台、CF",
-        "event": "現調",
-        "amount": 0,
-        "worker": "安江 啓太"
-      },
-      {
-        "customer": "濱田　耕司様",
-        "work_type": "トイレ工事",
-        "event": "現調",
-        "amount": 0,
-        "worker": "安江 啓太"
-      },
-      {
-        "customer": "戸井田尚也様",
-        "work_type": "水栓工事",
         "event": "商品入荷",
         "amount": 0,
-        "worker": "村椿昭二"
+        "worker": "不明"
       },
       {
-        "customer": "稲毛恵様",
-        "work_type": "水栓交換工事",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "堀"
-      },
-      {
-        "customer": "堀米　整様",
-        "work_type": "トイレ、食洗器交換",
-        "event": "商品入荷",
+        "customer": "青木　恵美子",
+        "work_type": "食洗機交換",
+        "event": "納品日当日",
         "amount": 0,
         "worker": "望月"
       },
       {
-        "customer": "曽根敏夫様",
-        "work_type": "IHコンロ工事",
-        "event": "商品入荷",
+        "customer": "蘭　祐雄",
+        "work_type": "トイレリフォーム",
+        "event": "現調",
         "amount": 0,
-        "worker": "石田"
+        "worker": "眞鍋"
+      },
+      {
+        "customer": "佐々木　徹也",
+        "work_type": "トイレ工事",
+        "event": "見積提出日当日",
+        "amount": 0,
+        "worker": "望月"
       }
     ]
   },
-  "important_count": 6
+  "important_count": 12
 }
