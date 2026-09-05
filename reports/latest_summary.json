@@ -1,62 +1,80 @@
 {
-  "generated_at": "2026-09-05T11:58:31.012926+09:00",
+  "generated_at": "2026-09-05T13:05:46.884098+09:00",
   "week": "2026-08-29 ~ 2026-09-05",
   "andpad": {
     "total_count": 15,
-    "completion_count": 0,
+    "completion_count": 1,
     "payment_count": 0,
     "site_survey_count": 1,
     "start_count": 0,
     "total_payment_amount": 0,
     "urgent_items": [
-      "9/5納品日当日：青木恵美子様邸食洗機交換（望月担当）",
-      "9/5現調日当日：蘭祐雄様邸トイレリフォーム（眞鍋担当）",
-      "9/5見積提出日当日：佐々木徹也様邸トイレ工事（望月担当）",
-      "9/5商品入荷連絡3件（ヤマザキカオル様・贄田喜朗様・平野美恵子様）"
+      "9月5日に複数回のログイン通知（10:00、10:01、10:06、13:00、13:01）- セキュリティ確認推奨"
     ],
-    "summary": "商品入荷3件、納品・現調・見積提出各1件が当日対応必要。ログイン通知多数。",
+    "summary": "商品入荷7件、完工報告1件、現調予定1件。ログイン通知が複数回発生。",
     "cases": [
       {
-        "customer": "ヤマザキ　カオル",
+        "customer": "末安伸一",
+        "work_type": "トイレと水栓工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江啓太"
+      },
+      {
+        "customer": "叶典子",
+        "work_type": "トイレ工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "BRANCH調布三鷹通り店"
+      },
+      {
+        "customer": "青木恵美子",
+        "work_type": "食洗機交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "BRANCH調布三鷹通り店"
+      },
+      {
+        "customer": "遠間健二",
+        "work_type": "給湯器",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "BRANCH調布三鷹通り店"
+      },
+      {
+        "customer": "富山",
+        "work_type": "トイレ・CF交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "BRANCH調布三鷹通り店"
+      },
+      {
+        "customer": "ヤマザキカオル",
         "work_type": "換気扇交換",
         "event": "商品入荷",
         "amount": 0,
-        "worker": "宝積"
+        "worker": "BRANCH調布三鷹通り店"
       },
       {
         "customer": "贄田喜朗",
         "work_type": "トイレ交換工事",
         "event": "商品入荷",
         "amount": 0,
-        "worker": "望月優"
+        "worker": "BRANCH調布三鷹通り店"
       },
       {
-        "customer": "平野　美恵子",
+        "customer": "平野美恵子",
         "work_type": "トイレ",
         "event": "商品入荷",
         "amount": 0,
-        "worker": "不明"
+        "worker": "小平店"
       },
       {
-        "customer": "青木　恵美子",
-        "work_type": "食洗機交換",
-        "event": "納品日当日",
-        "amount": 0,
-        "worker": "望月"
-      },
-      {
-        "customer": "蘭　祐雄",
+        "customer": "蘭祐雄",
         "work_type": "トイレリフォーム",
         "event": "現調",
         "amount": 0,
         "worker": "眞鍋"
-      },
-      {
-        "customer": "佐々木　徹也",
-        "work_type": "トイレ工事",
-        "event": "見積提出日当日",
-        "amount": 0,
-        "worker": "望月"
       }
     ]
   },
