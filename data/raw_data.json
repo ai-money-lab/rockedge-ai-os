@@ -1242,5 +1242,78 @@
         "worker": "石田"
       }
     ]
+  },
+  {
+    "week": "2026-08-29 ~ 2026-09-05",
+    "completion_count": 1,
+    "payment_count": 0,
+    "site_survey_count": 1,
+    "total_payment": 0,
+    "urgent_count": 1,
+    "cases": [
+      {
+        "customer": "末安伸一",
+        "work_type": "トイレと水栓工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江啓太"
+      },
+      {
+        "customer": "叶典子",
+        "work_type": "トイレ工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "BRANCH調布三鷹通り店"
+      },
+      {
+        "customer": "青木恵美子",
+        "work_type": "食洗機交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "BRANCH調布三鷹通り店"
+      },
+      {
+        "customer": "遠間健二",
+        "work_type": "給湯器",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "BRANCH調布三鷹通り店"
+      },
+      {
+        "customer": "富山",
+        "work_type": "トイレ・CF交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "BRANCH調布三鷹通り店"
+      },
+      {
+        "customer": "ヤマザキカオル",
+        "work_type": "換気扇交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "BRANCH調布三鷹通り店"
+      },
+      {
+        "customer": "贄田喜朗",
+        "work_type": "トイレ交換工事",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "BRANCH調布三鷹通り店"
+      },
+      {
+        "customer": "平野美恵子",
+        "work_type": "トイレ",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "小平店"
+      },
+      {
+        "customer": "蘭祐雄",
+        "work_type": "トイレリフォーム",
+        "event": "現調",
+        "amount": 0,
+        "worker": "眞鍋"
+      }
+    ]
   }
 ]
