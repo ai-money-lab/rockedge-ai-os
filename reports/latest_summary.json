@@ -1,43 +1,45 @@
 {
-  "generated_at": "2026-09-12T12:08:49.586287+09:00",
+  "generated_at": "2026-09-12T13:15:12.024234+09:00",
   "week": "2026-09-05 ~ 2026-09-12",
   "andpad": {
-    "total_count": 14,
+    "total_count": 15,
     "completion_count": 1,
     "payment_count": 2,
     "site_survey_count": 0,
     "start_count": 0,
     "total_payment_amount": 257840,
-    "urgent_items": [],
-    "summary": "今週はログイン通知10件、入金報告2件、完工報告1件、商品入荷連絡1件を受信",
+    "urgent_items": [
+      "安江啓太から鈴木日出男様邸の完工報告で200芯排水ソケットの在庫補充依頼あり"
+    ],
+    "summary": "完工1件、入金2件（計25.8万円）。案件招待1件。ログイン通知12件。",
     "cases": [
       {
-        "customer": "樋川　紘一",
+        "customer": "石田篤識",
+        "work_type": "風呂、洗面台交換",
+        "event": "着工",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "樋川紘一",
         "work_type": "トイレ",
         "event": "入金",
         "amount": 110660,
         "worker": "石倉"
       },
       {
-        "customer": "西田　和枝",
+        "customer": "西田和枝",
         "work_type": "トイレ",
         "event": "入金",
         "amount": 147180,
         "worker": "石倉"
       },
       {
-        "customer": "鈴木　日出男",
+        "customer": "鈴木日出男",
         "work_type": "トイレリフォーム",
         "event": "完工",
         "amount": 0,
-        "worker": "安江 啓太"
-      },
-      {
-        "customer": "田中　陸秀",
-        "work_type": "給湯器交換",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "望月"
+        "worker": "安江啓太"
       }
     ]
   },
