@@ -1315,5 +1315,43 @@
         "worker": "眞鍋"
       }
     ]
+  },
+  {
+    "week": "2026-09-05 ~ 2026-09-12",
+    "completion_count": 1,
+    "payment_count": 2,
+    "site_survey_count": 0,
+    "total_payment": 257840,
+    "urgent_count": 1,
+    "cases": [
+      {
+        "customer": "石田篤識",
+        "work_type": "風呂、洗面台交換",
+        "event": "着工",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "樋川紘一",
+        "work_type": "トイレ",
+        "event": "入金",
+        "amount": 110660,
+        "worker": "石倉"
+      },
+      {
+        "customer": "西田和枝",
+        "work_type": "トイレ",
+        "event": "入金",
+        "amount": 147180,
+        "worker": "石倉"
+      },
+      {
+        "customer": "鈴木日出男",
+        "work_type": "トイレリフォーム",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江啓太"
+      }
+    ]
   }
 ]
