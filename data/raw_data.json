@@ -1353,5 +1353,50 @@
         "worker": "安江啓太"
       }
     ]
+  },
+  {
+    "week": "2026-09-12 ~ 2026-09-19",
+    "completion_count": 0,
+    "payment_count": 0,
+    "site_survey_count": 0,
+    "total_payment": 0,
+    "urgent_count": 1,
+    "cases": [
+      {
+        "customer": "小池俊行様",
+        "work_type": "ユニットバス、洗面台交換、トイレ交換",
+        "event": "案件招待",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "西田和枝様",
+        "work_type": "トイレ",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "石倉"
+      },
+      {
+        "customer": "森清二様",
+        "work_type": "トイレ",
+        "event": "確認依頼",
+        "amount": 0,
+        "worker": "今野"
+      },
+      {
+        "customer": "谷川陽一様",
+        "work_type": "トイレ",
+        "event": "日報",
+        "amount": 0,
+        "worker": "布沢・安江啓太"
+      },
+      {
+        "customer": "小林妙子様",
+        "work_type": "トイレリフォーム",
+        "event": "案件招待",
+        "amount": 0,
+        "worker": "ほうせき"
+      }
+    ]
   }
 ]
