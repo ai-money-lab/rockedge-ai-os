@@ -1,54 +1,41 @@
 {
-  "generated_at": "2026-09-19T13:17:53.149552+09:00",
-  "week": "2026-09-12 ~ 2026-09-19",
+  "generated_at": "2026-09-26T12:33:22.844227+09:00",
+  "week": "2026-09-19 ~ 2026-09-26",
   "andpad": {
     "total_count": 15,
-    "completion_count": 0,
+    "completion_count": 1,
     "payment_count": 0,
-    "site_survey_count": 0,
+    "site_survey_count": 1,
     "start_count": 0,
     "total_payment_amount": 0,
     "urgent_items": [
-      "調布店森清二様トイレ今野案件：施工業者の回答確認が必要（今野氏より確認依頼あり）"
+      "太田綱吉様からの請求書作成に関する問い合わせ（9/25 14:49）",
+      "薗田公二様の会社参加申請の承認待ち（9/25）"
     ],
-    "summary": "今週はログイン通知が多数。新規案件招待3件、商品入荷1件、日報報告1件、確認依頼1件あり。",
+    "summary": "ログイン通知13件。完工1件、現調1件、案件招待1件、メッセージ対応1件、参加申請1件。",
     "cases": [
       {
-        "customer": "小池俊行様",
+        "customer": "平野美恵子",
+        "work_type": "トイレ",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江啓太"
+      },
+      {
+        "customer": "小池俊行",
         "work_type": "ユニットバス、洗面台交換、トイレ交換",
-        "event": "案件招待",
+        "event": "現調",
         "amount": 0,
         "worker": "望月"
       },
       {
-        "customer": "西田和枝様",
-        "work_type": "トイレ",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "石倉"
-      },
-      {
-        "customer": "森清二様",
-        "work_type": "トイレ",
-        "event": "確認依頼",
-        "amount": 0,
-        "worker": "今野"
-      },
-      {
-        "customer": "谷川陽一様",
-        "work_type": "トイレ",
-        "event": "日報",
-        "amount": 0,
-        "worker": "布沢・安江啓太"
-      },
-      {
-        "customer": "小林妙子様",
-        "work_type": "トイレリフォーム",
+        "customer": "岡本太郎",
+        "work_type": "レンジフード",
         "event": "案件招待",
         "amount": 0,
-        "worker": "ほうせき"
+        "worker": "眞鍋"
       }
     ]
   },
-  "important_count": 9
+  "important_count": 7
 }
