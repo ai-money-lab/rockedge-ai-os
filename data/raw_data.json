@@ -1398,5 +1398,29 @@
         "worker": "ほうせき"
       }
     ]
+  },
+  {
+    "week": "2026-09-19 ~ 2026-09-26",
+    "completion_count": 0,
+    "payment_count": 0,
+    "site_survey_count": 1,
+    "total_payment": 0,
+    "urgent_count": 2,
+    "cases": [
+      {
+        "customer": "小池俊行様邸",
+        "work_type": "ユニットバス、洗面台交換、トイレ交換",
+        "event": "現調",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "岡本太郎様邸",
+        "work_type": "レンジフード",
+        "event": "案件招待",
+        "amount": 0,
+        "worker": "眞鍋"
+      }
+    ]
   }
 ]
