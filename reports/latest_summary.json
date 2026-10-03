@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-03T12:49:16.048401+09:00",
+  "generated_at": "2026-10-03T13:59:19.677538+09:00",
   "week": "2026-09-26 ~ 2026-10-03",
   "andpad": {
-    "total_count": 15,
+    "total_count": 14,
     "completion_count": 3,
     "payment_count": 1,
     "site_survey_count": 0,
     "start_count": 0,
     "total_payment_amount": 0,
     "urgent_items": [
-      "20260929調布店　大原　俊宏様邸トイレ工事　望月：施工担当者の確認が必要（BRANCH調布三鷹通り店からの確認付きメッセージ）"
+      "大原　俊宏様邸トイレ工事：施工担当者の確認要請（望月担当）"
     ],
-    "summary": "完工3件、商品入荷2件、入金1件。施工担当者確認要の案件あり。",
+    "summary": "完工3件、商品入荷2件、入金1件、施工担当確認要請1件",
     "cases": [
       {
         "customer": "田中　陸秀",
@@ -32,19 +32,19 @@
         "work_type": "トイレ・CF交換",
         "event": "完工",
         "amount": 0,
-        "worker": "安江 啓太"
+        "worker": "安江　啓太"
       },
       {
         "customer": "溝井　美保",
         "work_type": "トイレ",
         "event": "完工",
         "amount": 0,
-        "worker": "小川→布沢"
+        "worker": "布沢"
       },
       {
         "customer": "大原　俊宏",
         "work_type": "トイレ工事",
-        "event": "確認要",
+        "event": "確認要請",
         "amount": 0,
         "worker": "望月"
       },
@@ -56,11 +56,11 @@
         "worker": "太田　綱吉"
       },
       {
-        "customer": "宮尾　大樹",
-        "work_type": "",
+        "customer": "楽天銀行入金",
+        "work_type": "-",
         "event": "入金",
         "amount": 0,
-        "worker": ""
+        "worker": "-"
       }
     ]
   },
