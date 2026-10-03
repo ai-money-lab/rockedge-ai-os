@@ -1,34 +1,68 @@
 {
-  "generated_at": "2026-09-26T13:39:21.550390+09:00",
-  "week": "2026-09-19 ~ 2026-09-26",
+  "generated_at": "2026-10-03T12:49:16.048401+09:00",
+  "week": "2026-09-26 ~ 2026-10-03",
   "andpad": {
     "total_count": 15,
-    "completion_count": 0,
-    "payment_count": 0,
-    "site_survey_count": 1,
+    "completion_count": 3,
+    "payment_count": 1,
+    "site_survey_count": 0,
     "start_count": 0,
     "total_payment_amount": 0,
     "urgent_items": [
-      "太田綱吉氏から今月分請求書作成について確認のメッセージあり（09/25 14:49）",
-      "薗田公二氏から会社参加申請あり、承認待ち（09/25 04:26）"
+      "20260929調布店　大原　俊宏様邸トイレ工事　望月：施工担当者の確認が必要（BRANCH調布三鷹通り店からの確認付きメッセージ）"
     ],
-    "summary": "ログイン通知13件、現調1件、メッセージ対応1件、参加申請承認待ち1件",
+    "summary": "完工3件、商品入荷2件、入金1件。施工担当者確認要の案件あり。",
     "cases": [
       {
-        "customer": "小池俊行様邸",
-        "work_type": "ユニットバス、洗面台交換、トイレ交換",
-        "event": "現調",
+        "customer": "田中　陸秀",
+        "work_type": "給湯器交換",
+        "event": "商品入荷",
         "amount": 0,
         "worker": "望月"
       },
       {
-        "customer": "岡本太郎様邸",
-        "work_type": "レンジフード",
-        "event": "案件招待",
+        "customer": "森清二",
+        "work_type": "トイレ",
+        "event": "商品入荷",
         "amount": 0,
-        "worker": "眞鍋"
+        "worker": "今野"
+      },
+      {
+        "customer": "富山",
+        "work_type": "トイレ・CF交換",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江 啓太"
+      },
+      {
+        "customer": "溝井　美保",
+        "work_type": "トイレ",
+        "event": "完工",
+        "amount": 0,
+        "worker": "小川→布沢"
+      },
+      {
+        "customer": "大原　俊宏",
+        "work_type": "トイレ工事",
+        "event": "確認要",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "早瀬　恵之",
+        "work_type": "トイレ交換工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "太田　綱吉"
+      },
+      {
+        "customer": "宮尾　大樹",
+        "work_type": "",
+        "event": "入金",
+        "amount": 0,
+        "worker": ""
       }
     ]
   },
-  "important_count": 7
+  "important_count": 15
 }
