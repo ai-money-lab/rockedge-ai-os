@@ -1422,5 +1422,64 @@
         "worker": "眞鍋"
       }
     ]
+  },
+  {
+    "week": "2026-09-26 ~ 2026-10-03",
+    "completion_count": 3,
+    "payment_count": 1,
+    "site_survey_count": 0,
+    "total_payment": 0,
+    "urgent_count": 1,
+    "cases": [
+      {
+        "customer": "田中　陸秀",
+        "work_type": "給湯器交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "森清二",
+        "work_type": "トイレ",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "今野"
+      },
+      {
+        "customer": "富山",
+        "work_type": "トイレ・CF交換",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江　啓太"
+      },
+      {
+        "customer": "溝井　美保",
+        "work_type": "トイレ",
+        "event": "完工",
+        "amount": 0,
+        "worker": "布沢"
+      },
+      {
+        "customer": "大原　俊宏",
+        "work_type": "トイレ工事",
+        "event": "確認要請",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "早瀬　恵之",
+        "work_type": "トイレ交換工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "太田　綱吉"
+      },
+      {
+        "customer": "楽天銀行入金",
+        "work_type": "-",
+        "event": "入金",
+        "amount": 0,
+        "worker": "-"
+      }
+    ]
   }
 ]
