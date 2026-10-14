@@ -1481,5 +1481,57 @@
         "worker": "-"
       }
     ]
+  },
+  {
+    "week": "2026-10-03 ~ 2026-10-10",
+    "completion_count": 0,
+    "payment_count": 2,
+    "site_survey_count": 0,
+    "total_payment": 131000,
+    "urgent_count": 3,
+    "cases": [
+      {
+        "customer": "岡本　太郎",
+        "work_type": "レンジフード",
+        "event": "入金",
+        "amount": 131000,
+        "worker": "眞鍋"
+      },
+      {
+        "customer": "清水　敏明",
+        "work_type": "ビルコン",
+        "event": "入金",
+        "amount": 0,
+        "worker": "石倉"
+      },
+      {
+        "customer": "木村智子",
+        "work_type": "不明",
+        "event": "現調",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "岡本　憲明",
+        "work_type": "ガスコンロ",
+        "event": "現調",
+        "amount": 0,
+        "worker": "宮野"
+      },
+      {
+        "customer": "松下文子",
+        "work_type": "給湯器工事",
+        "event": "現調",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "徳永　信之",
+        "work_type": "水栓入替",
+        "event": "現調",
+        "amount": 0,
+        "worker": "須永"
+      }
+    ]
   }
 ]
