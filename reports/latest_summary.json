@@ -1,61 +1,67 @@
 {
-  "generated_at": "2026-10-10T14:30:22.086516+09:00",
-  "week": "2026-10-03 ~ 2026-10-10",
+  "generated_at": "2026-10-17T12:00:37.639845+09:00",
+  "week": "2026-10-10 ~ 2026-10-17",
   "andpad": {
     "total_count": 15,
     "completion_count": 0,
-    "payment_count": 2,
+    "payment_count": 4,
     "site_survey_count": 0,
     "start_count": 0,
-    "total_payment_amount": 131000,
+    "total_payment_amount": 370920,
     "urgent_items": [
-      "岡本　憲明様邸10/7ガスコンロ - 小平店から日程調整のお客様連絡依頼（至急）",
-      "20261007松下文子様邸給湯器工事 - 日程調整連絡当日（10/10）",
-      "20261009調布店　徳永　信之様邸　水栓入替 - 日程調整連絡3日前（10/12施工予定）"
+      "松下文子様邸給湯器工事：壊れている為最短で対応が必要",
+      "丸山寛之様邸トイレ・CF工事：内装施工日の候補日程の回答が必要"
     ],
-    "summary": "入金2件（131,000円）、新規案件1件招待、日程調整対応3件（うち1件当日、1件至急）",
+    "summary": "入金報告4件、商品入荷3件、計37万円。給湯器緊急案件とトイレ内装日程調整あり。",
     "cases": [
       {
-        "customer": "岡本　太郎",
-        "work_type": "レンジフード",
+        "customer": "松下文子様",
+        "work_type": "給湯器工事",
         "event": "入金",
-        "amount": 131000,
+        "amount": 93940,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "板橋良子様",
+        "work_type": "トイレ2台",
+        "event": "入金",
+        "amount": 0,
         "worker": "眞鍋"
       },
       {
-        "customer": "清水　敏明",
-        "work_type": "ビルコン",
+        "customer": "松本通様",
+        "work_type": "給湯器工事",
         "event": "入金",
+        "amount": 250800,
+        "worker": "望月"
+      },
+      {
+        "customer": "徳永信之様",
+        "work_type": "水栓入替",
+        "event": "入金",
+        "amount": 26180,
+        "worker": "須永"
+      },
+      {
+        "customer": "水口様",
+        "work_type": "コンロ、温水便座工事",
+        "event": "現調",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "河内直樹様",
+        "work_type": "エコキュート",
+        "event": "現調",
+        "amount": 0,
+        "worker": "眞鍋"
+      },
+      {
+        "customer": "清水敏明様",
+        "work_type": "ビルコン",
+        "event": "現調",
         "amount": 0,
         "worker": "石倉"
-      },
-      {
-        "customer": "木村智子",
-        "work_type": "不明",
-        "event": "現調",
-        "amount": 0,
-        "worker": "村椿昭二"
-      },
-      {
-        "customer": "岡本　憲明",
-        "work_type": "ガスコンロ",
-        "event": "現調",
-        "amount": 0,
-        "worker": "宮野"
-      },
-      {
-        "customer": "松下文子",
-        "work_type": "給湯器工事",
-        "event": "現調",
-        "amount": 0,
-        "worker": "村椿昭二"
-      },
-      {
-        "customer": "徳永　信之",
-        "work_type": "水栓入替",
-        "event": "現調",
-        "amount": 0,
-        "worker": "須永"
       }
     ]
   },
