@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T12:00:37.639845+09:00",
+  "generated_at": "2026-10-17T13:01:53.290812+09:00",
   "week": "2026-10-10 ~ 2026-10-17",
   "andpad": {
     "total_count": 15,
@@ -9,55 +9,55 @@
     "start_count": 0,
     "total_payment_amount": 370920,
     "urgent_items": [
-      "松下文子様邸給湯器工事：壊れている為最短で対応が必要",
-      "丸山寛之様邸トイレ・CF工事：内装施工日の候補日程の回答が必要"
+      "松下文子様邸給湯器工事：壊れているため最短対応が必要",
+      "丸山寛之様邸：内装工事の施工日候補提出が必要（石塚陸氏より依頼）"
     ],
-    "summary": "入金報告4件、商品入荷3件、計37万円。給湯器緊急案件とトイレ内装日程調整あり。",
+    "summary": "入金報告4件、商品入荷連絡3件、入金合計37万円、給湯器緊急対応あり",
     "cases": [
       {
-        "customer": "松下文子様",
+        "customer": "松下文子",
         "work_type": "給湯器工事",
         "event": "入金",
         "amount": 93940,
         "worker": "村椿昭二"
       },
       {
-        "customer": "板橋良子様",
+        "customer": "板橋良子",
         "work_type": "トイレ2台",
         "event": "入金",
         "amount": 0,
         "worker": "眞鍋"
       },
       {
-        "customer": "松本通様",
+        "customer": "松本通",
         "work_type": "給湯器工事",
         "event": "入金",
         "amount": 250800,
         "worker": "望月"
       },
       {
-        "customer": "徳永信之様",
+        "customer": "徳永信之",
         "work_type": "水栓入替",
         "event": "入金",
         "amount": 26180,
         "worker": "須永"
       },
       {
-        "customer": "水口様",
-        "work_type": "コンロ、温水便座工事",
+        "customer": "水口",
+        "work_type": "コンロ・温水便座工事",
         "event": "現調",
         "amount": 0,
         "worker": "望月"
       },
       {
-        "customer": "河内直樹様",
+        "customer": "河内直樹",
         "work_type": "エコキュート",
         "event": "現調",
         "amount": 0,
         "worker": "眞鍋"
       },
       {
-        "customer": "清水敏明様",
+        "customer": "清水敏明",
         "work_type": "ビルコン",
         "event": "現調",
         "amount": 0,
