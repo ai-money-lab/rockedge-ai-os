@@ -1,67 +1,52 @@
 {
-  "generated_at": "2026-10-17T13:01:53.290812+09:00",
-  "week": "2026-10-10 ~ 2026-10-17",
+  "generated_at": "2026-10-24T12:18:25.212054+09:00",
+  "week": "2026-10-17 ~ 2026-10-24",
   "andpad": {
     "total_count": 15,
-    "completion_count": 0,
-    "payment_count": 4,
+    "completion_count": 3,
+    "payment_count": 0,
     "site_survey_count": 0,
     "start_count": 0,
-    "total_payment_amount": 370920,
+    "total_payment_amount": 0,
     "urgent_items": [
-      "松下文子様邸給湯器工事：壊れているため最短対応が必要",
-      "丸山寛之様邸：内装工事の施工日候補提出が必要（石塚陸氏より依頼）"
+      "壬生恒憲様邸ビルトイン食洗器が納品日3日前（10/26納品予定）"
     ],
-    "summary": "入金報告4件、商品入荷連絡3件、入金合計37万円、給湯器緊急対応あり",
+    "summary": "完工3件、商品入荷1件、新規案件招待3件、納品日3日前案件1件のアラート",
     "cases": [
+      {
+        "customer": "岡本太郎",
+        "work_type": "レンジフード",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江啓太"
+      },
+      {
+        "customer": "増田亮",
+        "work_type": "ビルトインIH交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "BRANCH調布三鷹通り店"
+      },
+      {
+        "customer": "森清二",
+        "work_type": "ユニットバス",
+        "event": "完工",
+        "amount": 0,
+        "worker": "坂口隆一"
+      },
       {
         "customer": "松下文子",
         "work_type": "給湯器工事",
-        "event": "入金",
-        "amount": 93940,
-        "worker": "村椿昭二"
-      },
-      {
-        "customer": "板橋良子",
-        "work_type": "トイレ2台",
-        "event": "入金",
+        "event": "完工",
         "amount": 0,
-        "worker": "眞鍋"
+        "worker": "太田綱吉"
       },
       {
-        "customer": "松本通",
-        "work_type": "給湯器工事",
-        "event": "入金",
-        "amount": 250800,
-        "worker": "望月"
-      },
-      {
-        "customer": "徳永信之",
-        "work_type": "水栓入替",
-        "event": "入金",
-        "amount": 26180,
-        "worker": "須永"
-      },
-      {
-        "customer": "水口",
-        "work_type": "コンロ・温水便座工事",
-        "event": "現調",
+        "customer": "壬生恒憲",
+        "work_type": "ビルトイン食洗器",
+        "event": "納品日3日前",
         "amount": 0,
-        "worker": "望月"
-      },
-      {
-        "customer": "河内直樹",
-        "work_type": "エコキュート",
-        "event": "現調",
-        "amount": 0,
-        "worker": "眞鍋"
-      },
-      {
-        "customer": "清水敏明",
-        "work_type": "ビルコン",
-        "event": "現調",
-        "amount": 0,
-        "worker": "石倉"
+        "worker": ""
       }
     ]
   },
