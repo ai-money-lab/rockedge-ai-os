@@ -1592,5 +1592,50 @@
         "worker": "石倉"
       }
     ]
+  },
+  {
+    "week": "2026-10-17 ~ 2026-10-24",
+    "completion_count": 3,
+    "payment_count": 0,
+    "site_survey_count": 0,
+    "total_payment": 0,
+    "urgent_count": 1,
+    "cases": [
+      {
+        "customer": "岡本太郎",
+        "work_type": "レンジフード",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江啓太"
+      },
+      {
+        "customer": "増田亮",
+        "work_type": "ビルトインIH交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "BRANCH調布三鷹通り店"
+      },
+      {
+        "customer": "森清二",
+        "work_type": "ユニットバス",
+        "event": "完工",
+        "amount": 0,
+        "worker": "坂口隆一"
+      },
+      {
+        "customer": "松下文子",
+        "work_type": "給湯器工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "太田綱吉"
+      },
+      {
+        "customer": "壬生恒憲",
+        "work_type": "ビルトイン食洗器",
+        "event": "納品3日前",
+        "amount": 0,
+        "worker": "眞鍋"
+      }
+    ]
   }
 ]
