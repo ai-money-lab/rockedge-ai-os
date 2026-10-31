@@ -1,41 +1,46 @@
 {
-  "generated_at": "2026-10-31T13:03:46.180069+09:00",
+  "generated_at": "2026-10-31T14:11:19.633920+09:00",
   "week": "2026-10-24 ~ 2026-10-31",
   "andpad": {
-    "total_count": 14,
+    "total_count": 15,
     "completion_count": 1,
     "payment_count": 0,
     "site_survey_count": 1,
-    "start_count": 1,
+    "start_count": 0,
     "total_payment_amount": 0,
     "urgent_items": [
-      "末武幸助様邸給湯器案件が現調日当日（10/31）",
-      "増田亮様邸ビルトインIH交換が納品日3日前",
-      "藤井周様邸エコキュート入替の蓄熱暖房器撤去処分費確認待ち",
-      "神戸清隆様邸トイレ・内装工事の内装手配について年末年始スケジュール調整必要"
+      "10/31現調当日：20261002 調布店 末武 幸助様邸 給湯器 眞鍋案件",
+      "蓄熱暖房器撤去の処分費確認待ち：20261018調布店 藤井 周様邸 エコキュート入替 宝積案件"
     ],
-    "summary": "完工1件、現調当日1件、納品間近1件。年末年始に向けた内装スケジュール調整が必要。",
+    "summary": "今週はログイン通知が多数。完工1件、現調1件。処分費確認待ち案件あり。",
     "cases": [
       {
-        "customer": "日原良郎様",
+        "customer": "日原 良郎様",
         "work_type": "トイレ工事",
         "event": "完工",
         "amount": 0,
         "worker": "望月"
       },
       {
-        "customer": "末武幸助様",
+        "customer": "末武 幸助様",
         "work_type": "給湯器",
         "event": "現調",
         "amount": 0,
         "worker": "眞鍋"
       },
       {
-        "customer": "石田篤識様",
-        "work_type": "風呂、洗面台交換",
-        "event": "着工",
+        "customer": "増田 亮様",
+        "work_type": "ビルトインIH交換",
+        "event": "納品3日前",
         "amount": 0,
         "worker": "望月"
+      },
+      {
+        "customer": "藤井 周様",
+        "work_type": "エコキュート入替",
+        "event": "処分費確認中",
+        "amount": 0,
+        "worker": "宝積"
       }
     ]
   },
