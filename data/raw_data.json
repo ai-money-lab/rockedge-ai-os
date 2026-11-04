@@ -1637,5 +1637,43 @@
         "worker": "眞鍋"
       }
     ]
+  },
+  {
+    "week": "2026-10-24 ~ 2026-10-31",
+    "completion_count": 1,
+    "payment_count": 0,
+    "site_survey_count": 1,
+    "total_payment": 0,
+    "urgent_count": 2,
+    "cases": [
+      {
+        "customer": "日原 良郎様",
+        "work_type": "トイレ工事",
+        "event": "完工",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "末武 幸助様",
+        "work_type": "給湯器",
+        "event": "現調",
+        "amount": 0,
+        "worker": "眞鍋"
+      },
+      {
+        "customer": "増田 亮様",
+        "work_type": "ビルトインIH交換",
+        "event": "納品3日前",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "藤井 周様",
+        "work_type": "エコキュート入替",
+        "event": "処分費確認中",
+        "amount": 0,
+        "worker": "宝積"
+      }
+    ]
   }
 ]
