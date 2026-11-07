@@ -1,46 +1,53 @@
 {
-  "generated_at": "2026-10-31T14:11:19.633920+09:00",
-  "week": "2026-10-24 ~ 2026-10-31",
+  "generated_at": "2026-11-07T13:40:42.549798+09:00",
+  "week": "2026-10-31 ~ 2026-11-07",
   "andpad": {
     "total_count": 15,
-    "completion_count": 1,
+    "completion_count": 0,
     "payment_count": 0,
-    "site_survey_count": 1,
+    "site_survey_count": 0,
     "start_count": 0,
     "total_payment_amount": 0,
     "urgent_items": [
-      "10/31現調当日：20261002 調布店 末武 幸助様邸 給湯器 眞鍋案件",
-      "蓄熱暖房器撤去の処分費確認待ち：20261018調布店 藤井 周様邸 エコキュート入替 宝積案件"
+      "渡辺文子様邸ガス給湯器の未登録申請3件（パロマFHS2014SAW、KAFHS-40、HKFH-1S）の確認が必要",
+      "内田俊介様邸ビルトインコンロ交換が納品日当日（11/7）のため対応確認必要"
     ],
-    "summary": "今週はログイン通知が多数。完工1件、現調1件。処分費確認待ち案件あり。",
+    "summary": "商品入荷連絡3件、未登録申請3件、新規案件招待1件。複数のログイン通知あり。",
     "cases": [
       {
-        "customer": "日原 良郎様",
-        "work_type": "トイレ工事",
-        "event": "完工",
+        "customer": "石田篤識",
+        "work_type": "風呂・洗面台交換",
+        "event": "商品入荷",
         "amount": 0,
         "worker": "望月"
       },
       {
-        "customer": "末武 幸助様",
-        "work_type": "給湯器",
-        "event": "現調",
+        "customer": "渡辺文子",
+        "work_type": "ガス給湯器",
+        "event": "未登録申請",
         "amount": 0,
-        "worker": "眞鍋"
+        "worker": "今野"
       },
       {
-        "customer": "増田 亮様",
-        "work_type": "ビルトインIH交換",
-        "event": "納品3日前",
+        "customer": "伊東和栄",
+        "work_type": "ビルトインコンロ・ガス給湯器",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "今野"
+      },
+      {
+        "customer": "内田俊介",
+        "work_type": "ビルトインコンロ交換",
+        "event": "商品入荷",
         "amount": 0,
         "worker": "望月"
       },
       {
-        "customer": "藤井 周様",
-        "work_type": "エコキュート入替",
-        "event": "処分費確認中",
+        "customer": "神田武子",
+        "work_type": "ガスコンロ",
+        "event": "案件招待",
         "amount": 0,
-        "worker": "宝積"
+        "worker": "宮野"
       }
     ]
   },
