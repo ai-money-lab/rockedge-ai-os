@@ -1,32 +1,39 @@
 {
-  "generated_at": "2026-11-07T13:40:42.549798+09:00",
+  "generated_at": "2026-11-07T14:39:41.812509+09:00",
   "week": "2026-10-31 ~ 2026-11-07",
   "andpad": {
     "total_count": 15,
     "completion_count": 0,
-    "payment_count": 0,
+    "payment_count": 2,
     "site_survey_count": 0,
     "start_count": 0,
-    "total_payment_amount": 0,
+    "total_payment_amount": 432520,
     "urgent_items": [
-      "渡辺文子様邸ガス給湯器の未登録申請3件（パロマFHS2014SAW、KAFHS-40、HKFH-1S）の確認が必要",
-      "内田俊介様邸ビルトインコンロ交換が納品日当日（11/7）のため対応確認必要"
+      "渡辺文子様邸ガス給湯器：商品3点未登録、登録完了後に赤黒予定",
+      "土屋一重様邸トイレ：トイレ写真4枚受領済、追加部品・問題点の確認が必要"
     ],
-    "summary": "商品入荷連絡3件、未登録申請3件、新規案件招待1件。複数のログイン通知あり。",
+    "summary": "入金報告2件（計432,520円）、商品入荷3件、未登録申請3件、新規案件招待2件",
     "cases": [
-      {
-        "customer": "石田篤識",
-        "work_type": "風呂・洗面台交換",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "望月"
-      },
       {
         "customer": "渡辺文子",
         "work_type": "ガス給湯器",
-        "event": "未登録申請",
-        "amount": 0,
+        "event": "入金",
+        "amount": 241340,
         "worker": "今野"
+      },
+      {
+        "customer": "土屋一重",
+        "work_type": "トイレ",
+        "event": "入金",
+        "amount": 191180,
+        "worker": "今野"
+      },
+      {
+        "customer": "石田篤識",
+        "work_type": "風呂、洗面台交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "望月"
       },
       {
         "customer": "伊東和栄",
@@ -43,11 +50,25 @@
         "worker": "望月"
       },
       {
+        "customer": "渡辺文子",
+        "work_type": "ガス給湯器",
+        "event": "未登録申請",
+        "amount": 0,
+        "worker": "今野"
+      },
+      {
         "customer": "神田武子",
         "work_type": "ガスコンロ",
-        "event": "案件招待",
+        "event": "新規案件招待",
         "amount": 0,
         "worker": "宮野"
+      },
+      {
+        "customer": "土屋一重",
+        "work_type": "トイレ",
+        "event": "新規案件招待",
+        "amount": 0,
+        "worker": "今野"
       }
     ]
   },
