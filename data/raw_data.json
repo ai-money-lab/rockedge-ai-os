@@ -1675,5 +1675,71 @@
         "worker": "宝積"
       }
     ]
+  },
+  {
+    "week": "2026-10-31 ~ 2026-11-07",
+    "completion_count": 0,
+    "payment_count": 2,
+    "site_survey_count": 0,
+    "total_payment": 432520,
+    "urgent_count": 2,
+    "cases": [
+      {
+        "customer": "渡辺文子",
+        "work_type": "ガス給湯器",
+        "event": "入金",
+        "amount": 241340,
+        "worker": "今野"
+      },
+      {
+        "customer": "土屋一重",
+        "work_type": "トイレ",
+        "event": "入金",
+        "amount": 191180,
+        "worker": "今野"
+      },
+      {
+        "customer": "石田篤識",
+        "work_type": "風呂、洗面台交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "伊東和栄",
+        "work_type": "ビルトインコンロ・ガス給湯器",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "今野"
+      },
+      {
+        "customer": "内田俊介",
+        "work_type": "ビルトインコンロ交換",
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "望月"
+      },
+      {
+        "customer": "渡辺文子",
+        "work_type": "ガス給湯器",
+        "event": "未登録申請",
+        "amount": 0,
+        "worker": "今野"
+      },
+      {
+        "customer": "神田武子",
+        "work_type": "ガスコンロ",
+        "event": "新規案件招待",
+        "amount": 0,
+        "worker": "宮野"
+      },
+      {
+        "customer": "土屋一重",
+        "work_type": "トイレ",
+        "event": "新規案件招待",
+        "amount": 0,
+        "worker": "今野"
+      }
+    ]
   }
 ]
