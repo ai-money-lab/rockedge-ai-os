@@ -1,74 +1,52 @@
 {
-  "generated_at": "2026-11-07T14:39:41.812509+09:00",
-  "week": "2026-10-31 ~ 2026-11-07",
+  "generated_at": "2026-11-14T13:56:40.319337+09:00",
+  "week": "2026-11-07 ~ 2026-11-14",
   "andpad": {
-    "total_count": 15,
-    "completion_count": 0,
+    "total_count": 14,
+    "completion_count": 2,
     "payment_count": 2,
-    "site_survey_count": 0,
+    "site_survey_count": 1,
     "start_count": 0,
-    "total_payment_amount": 432520,
+    "total_payment_amount": 356070,
     "urgent_items": [
-      "渡辺文子様邸ガス給湯器：商品3点未登録、登録完了後に赤黒予定",
-      "土屋一重様邸トイレ：トイレ写真4枚受領済、追加部品・問題点の確認が必要"
+      "11/14納品日当日：佐藤勇様邸風呂換気扇交換（商品入荷連絡済み、工事対応必要）"
     ],
-    "summary": "入金報告2件（計432,520円）、商品入荷3件、未登録申請3件、新規案件招待2件",
+    "summary": "完工2件、入金2件（計35.6万円）、現調後案件1件、納品当日案件1件あり",
     "cases": [
       {
-        "customer": "渡辺文子",
-        "work_type": "ガス給湯器",
+        "customer": "木村智子様",
+        "work_type": "トイレ交換工事",
         "event": "入金",
-        "amount": 241340,
-        "worker": "今野"
+        "amount": 164450,
+        "worker": "村椿昭二"
       },
       {
-        "customer": "土屋一重",
+        "customer": "増田亮様",
+        "work_type": "ビルトインIH交換",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江啓太"
+      },
+      {
+        "customer": "中村様",
         "work_type": "トイレ",
         "event": "入金",
-        "amount": 191180,
-        "worker": "今野"
+        "amount": 191620,
+        "worker": "大久保"
       },
       {
-        "customer": "石田篤識",
-        "work_type": "風呂、洗面台交換",
-        "event": "商品入荷",
+        "customer": "佐藤勇様（オーナー山内様）",
+        "work_type": "風呂換気扇交換",
+        "event": "現調",
         "amount": 0,
-        "worker": "望月"
+        "worker": "村椿"
       },
       {
-        "customer": "伊東和栄",
-        "work_type": "ビルトインコンロ・ガス給湯器",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "今野"
-      },
-      {
-        "customer": "内田俊介",
-        "work_type": "ビルトインコンロ交換",
-        "event": "商品入荷",
-        "amount": 0,
-        "worker": "望月"
-      },
-      {
-        "customer": "渡辺文子",
+        "customer": "武井繁夫様",
         "work_type": "ガス給湯器",
-        "event": "未登録申請",
+        "event": "完工",
         "amount": 0,
-        "worker": "今野"
-      },
-      {
-        "customer": "神田武子",
-        "work_type": "ガスコンロ",
-        "event": "新規案件招待",
-        "amount": 0,
-        "worker": "宮野"
-      },
-      {
-        "customer": "土屋一重",
-        "work_type": "トイレ",
-        "event": "新規案件招待",
-        "amount": 0,
-        "worker": "今野"
+        "worker": "石倉"
       }
     ]
   },
