@@ -1741,5 +1741,50 @@
         "worker": "今野"
       }
     ]
+  },
+  {
+    "week": "2026-11-07 ~ 2026-11-14",
+    "completion_count": 2,
+    "payment_count": 2,
+    "site_survey_count": 1,
+    "total_payment": 356070,
+    "urgent_count": 1,
+    "cases": [
+      {
+        "customer": "増田 亮",
+        "work_type": "ビルトインIH交換・レンジフード",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江 啓太"
+      },
+      {
+        "customer": "武井 繁夫",
+        "work_type": "ガス給湯器",
+        "event": "完工",
+        "amount": 0,
+        "worker": "村上裕一"
+      },
+      {
+        "customer": "木村智子",
+        "work_type": "トイレ交換工事",
+        "event": "入金",
+        "amount": 164450,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "中村",
+        "work_type": "トイレ",
+        "event": "入金",
+        "amount": 191620,
+        "worker": "大久保"
+      },
+      {
+        "customer": "佐藤勇（オーナー山内）",
+        "work_type": "風呂換気扇交換",
+        "event": "現調",
+        "amount": 0,
+        "worker": "村椿"
+      }
+    ]
   }
 ]
