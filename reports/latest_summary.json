@@ -1,52 +1,53 @@
 {
-  "generated_at": "2026-11-14T14:57:38.718301+09:00",
-  "week": "2026-11-07 ~ 2026-11-14",
+  "generated_at": "2026-11-21T14:39:23.007599+09:00",
+  "week": "2026-11-14 ~ 2026-11-21",
   "andpad": {
     "total_count": 15,
     "completion_count": 2,
-    "payment_count": 2,
+    "payment_count": 1,
     "site_survey_count": 1,
     "start_count": 0,
-    "total_payment_amount": 356070,
+    "total_payment_amount": 160000,
     "urgent_items": [
-      "20261002調布店 佐藤勇様邸 風呂換気扇交換：納品日当日（11/14）商品入荷済み、施工対応必要"
+      "田中陸秀様邸ガス給湯器工事：急ぎの発注依頼あり（入金済160,000円）",
+      "木村智子様邸トイレ交換工事：納品日当日（11/21）、商品入荷連絡済"
     ],
-    "summary": "完工2件、入金2件（計35.6万円）、現調後1件、商品入荷1件",
+    "summary": "完工2件、入金1件（16万円）、現調1件、納品日当日案件あり急ぎ対応必要",
     "cases": [
       {
-        "customer": "増田 亮",
-        "work_type": "ビルトインIH交換・レンジフード",
+        "customer": "山崎舞",
+        "work_type": "ビルトインコンロ入替",
         "event": "完工",
         "amount": 0,
-        "worker": "安江 啓太"
-      },
-      {
-        "customer": "武井 繁夫",
-        "work_type": "ガス給湯器",
-        "event": "完工",
-        "amount": 0,
-        "worker": "村上裕一"
+        "worker": "安江啓太"
       },
       {
         "customer": "木村智子",
         "work_type": "トイレ交換工事",
-        "event": "入金",
-        "amount": 164450,
-        "worker": "村椿昭二"
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "BRANCH調布三鷹通り店"
       },
       {
-        "customer": "中村",
-        "work_type": "トイレ",
-        "event": "入金",
-        "amount": 191620,
-        "worker": "大久保"
+        "customer": "依田昇",
+        "work_type": "給湯器入替",
+        "event": "完工",
+        "amount": 0,
+        "worker": "安江啓太"
       },
       {
-        "customer": "佐藤勇（オーナー山内）",
-        "work_type": "風呂換気扇交換",
+        "customer": "真崎弘美",
+        "work_type": "トイレ交換工事",
         "event": "現調",
         "amount": 0,
-        "worker": "村椿"
+        "worker": "安江啓太"
+      },
+      {
+        "customer": "田中陸秀",
+        "work_type": "ガス給湯器",
+        "event": "入金",
+        "amount": 160000,
+        "worker": "BRANCH調布三鷹通り店"
       }
     ]
   },
