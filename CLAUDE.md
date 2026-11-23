@@ -26,7 +26,7 @@ GitHub → Actions タブ → 実行したいワークフローを選択 → Run
 | ワークフロー | タイミング | 内容 |
 |---|---|---|
 | Weekly Report | 毎週月曜自動 | 週次レポート生成 |
-| Content Creator | 手動実行 | TikTok台本・X投稿生成 |
+| Content Creator | 手動実行 | TikTok台本・IGリール・X投稿生成 |
 | Data Analyzer | 毎週水曜自動 | データ分析レポート |
 
 ---

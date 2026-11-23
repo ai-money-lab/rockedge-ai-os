@@ -8,7 +8,7 @@ on:
         required: true
         default: '不動産投資'
       mode:
-        description: 'モード（tiktok / x_post / note）'
+        description: 'モード（tiktok / ig_reel / x_post / note）'
         required: true
         default: 'tiktok'
 
