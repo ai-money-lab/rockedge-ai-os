@@ -1,53 +1,63 @@
 {
-  "generated_at": "2026-11-21T15:47:44.714906+09:00",
-  "week": "2026-11-14 ~ 2026-11-21",
+  "generated_at": "2026-11-28T15:19:24.407379+09:00",
+  "week": "2026-11-21 ~ 2026-11-28",
   "andpad": {
     "total_count": 15,
-    "completion_count": 2,
+    "completion_count": 0,
     "payment_count": 1,
-    "site_survey_count": 1,
+    "site_survey_count": 0,
     "start_count": 0,
-    "total_payment_amount": 160000,
+    "total_payment_amount": 387200,
     "urgent_items": [
-      "田中陸秀様邸ガス給湯器工事：急ぎの発注依頼あり（入金済・成約金額160,000円）",
-      "木村智子様邸トイレ交換工事：納品日当日（11/21）商品入荷連絡済"
+      "11/28：石井誠様邸（トイレ）商品入荷済み",
+      "11/28：田中陸秀様邸ガス給湯器商品入荷済み",
+      "11/28：石原洋子様邸トイレ交換工事の日程調整当日",
+      "11/28：杉山登志子様邸（レンジフード水栓）納品日当日",
+      "11/28：小林孝行様邸レンジフード排気口左側指定の日報確認"
     ],
-    "summary": "完工2件、入金1件（16万円）、現調1件、商品入荷1件。急ぎ発注案件あり。",
+    "summary": "入金1件(387,200円)、商品入荷2件、当日対応案件2件、ログイン通知多数",
     "cases": [
       {
-        "customer": "山崎舞",
-        "work_type": "ビルトインコンロ入替",
-        "event": "完工",
-        "amount": 0,
-        "worker": "安江啓太"
+        "customer": "楢﨑史昭",
+        "work_type": "給湯器・浴室暖房交換工事",
+        "event": "入金",
+        "amount": 387200,
+        "worker": "望月"
       },
       {
-        "customer": "木村智子",
-        "work_type": "トイレ交換工事",
+        "customer": "石井誠",
+        "work_type": "トイレ",
         "event": "商品入荷",
         "amount": 0,
-        "worker": "BRANCH調布三鷹通り店"
-      },
-      {
-        "customer": "依田昇",
-        "work_type": "給湯器入替",
-        "event": "完工",
-        "amount": 0,
-        "worker": "安江啓太"
-      },
-      {
-        "customer": "真崎弘美",
-        "work_type": "トイレ交換工事",
-        "event": "現調",
-        "amount": 0,
-        "worker": "安江啓太"
+        "worker": "石倉"
       },
       {
         "customer": "田中陸秀",
         "work_type": "ガス給湯器",
-        "event": "入金",
-        "amount": 160000,
-        "worker": "BRANCH調布三鷹通り店"
+        "event": "商品入荷",
+        "amount": 0,
+        "worker": "石田"
+      },
+      {
+        "customer": "小林孝行",
+        "work_type": "レンジフード",
+        "event": "日報",
+        "amount": 0,
+        "worker": "薗田公二"
+      },
+      {
+        "customer": "石原洋子",
+        "work_type": "トイレ交換工事",
+        "event": "日程調整当日",
+        "amount": 0,
+        "worker": "村椿昭二"
+      },
+      {
+        "customer": "杉山登志子",
+        "work_type": "レンジフード水栓",
+        "event": "納品日当日",
+        "amount": 0,
+        "worker": "不明"
       }
     ]
   },
